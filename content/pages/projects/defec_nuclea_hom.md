@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 title: Defect Nucleation in Crystalline Metals
 uid: 4240da7f-1fee-9884-d011-d970176515dd

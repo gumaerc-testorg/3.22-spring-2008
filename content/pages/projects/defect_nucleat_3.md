@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 title: Defect Nucleation in Crystalline Metals - Problem Set 3
 uid: d45cc5b0-b455-db9c-d6d7-0a678a060851
@@ -27,7 +31,7 @@ Eq. 1
 
 {{< tableclose >}}
 
-where σz and σθ are principal stresses expressed as
+where σ{{< sub "z" >}} and σ{{< sub "θ" >}} are principal stresses expressed as
 
 {{< tableopen >}}
 {{< tropen >}}
@@ -59,7 +63,7 @@ Eq. 3
 
 {{< tableclose >}}
 
-Here _p0_ is the maximum pressure, ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_3_4.jpg)
+Here _p{{< sub "0" >}}_ is the maximum pressure, ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_3_4.jpg)
 
 Therefore
 
@@ -101,7 +105,7 @@ Supplemental Calculations
 
 As can be seen in the below figure, when a pressure distribution is applied on a xy plane, at _x=s_ point, _x_ is shifted by amount of _s_, thus _x_ is replaced by _(x-s)_. Then the pressure applied at _x=s_ point is written as _p(s)_ instead of _p(x)_.
 
-In this 2-D indentation case with same radius _R(= R1 = R2), a = b_.
+In this 2-D indentation case with same radius _R(= R{{< sub "1" >}} = R{{< sub "2" >}}), a = b_.
 
 ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_3_17.jpg)
 
@@ -131,7 +135,7 @@ Thus,
 
 ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_3_14.jpg)
 
-When we calculate this through a calculator, we can get z = 0.78a, and there τmax = 0.30 p0
+When we calculate this through a calculator, we can get z = 0.78a, and there τ{{< sub "max" >}} = 0.30 p{{< sub "0" >}}
 
 _(d) Minor, et al. \[[5](#ref)\] show interesting experiments that enable visualization of dislocations in a thin foil of Al during indentation, similar in goal to the MD simulations of Al discussed in your other two papers \[[1](#ref), [4](#ref)\]. Discuss how well the authors justified the assumption that the load-drops in the load-displacement data correspond to homogeneous dislocation nucleation, as opposed to heterogeneous dislocation nucleation from grain boundaries or motion of pre-existing dislocations. This analysis should include consideration of images, reported data, and expected values of required stresses, dislocation spacing, and sufficient "perfect crystal" size comparable to the elastic strain field of an indenter_.
 
@@ -139,7 +143,7 @@ Minor, et al. \[[5](#ref)\] claim that the load drops in their nanoindentation d
 
 First, we consider the possibility of dislocations nucleated from grain boundaries. From inspection of the TEM images in Fig. 2 (and the corresponding movie in the online Supplemental section), we can see dislocations originating in the interior of the grain, underneath the indenter. This is most easily seen in the later parts of the movie (closer to load drop 3), where an increased amount of dislocation activity can be seen in this region. The possibility of grain boundary nucleated dislocations can also be ruled out by considering the size of the grain used to model a perfect crystal with the elastic stress field under the indenter. Our previous analysis (work done in [PSet 2b]({{< baseurl >}}/pages/projects/defect_nucleat_2) and PSet 3c) has shown that the shear stress drops significantly and becomes close to zero at distances of greater than three contact radii away from the contact point. By looking at Supplementary Image 2 \[[5](#ref)\], we can see that the contact radius is approximately 37.5 nm while the grain boundaries are hundreds of nanometers away from the contact point. Since these boundaries are all more than five times the contact radius away, the shear stress acting on the boundaries will be insignificant. Since a large stress must be concentrated on a grain boundary for a dislocation to be emitted, this possibility can be ruled out. This combination of visual evidence and consideration of the applied stress field show that grain boundary nucleation cannot explain the load drops in the nanoindentation data.
 
-Next, we look at the possibility of the load drops corresponding to critical events involving the movement of preexisting dislocations. The images of the 1st load drop show that this cannot be the case here, where a dislocation-free crystal becomes filled with dislocation debris. Images of the 2nd load drop show a greatly increased dislocation density, pointing to the fact that dislocation nucleation is occurring. Finally, as mentioned earlier, a higher level of dislocation nucleation and movement can be observed under the indenter contact when compared to the rest of the crystal at the 3rd load drop. The possibility of existing dislocation movement can also be analytically considered by looking at the stress necessary to move dislocations through an existing dislocation structure. The existing dislocation density in Fig. 2e is estimated in the article as _ρ_ _~_ 1014 m\-2. Using the Taylor work hardening law (shown below), we can estimate the shear stress needed to cause slip in a crystal with a given dislocation density. This theory is based on the stress needed to pull two dislocations past each other. Here, the spacing between dislocations, _l_, is equivalent to the inverse square root of the dislocation density, _ρ_. By choosing _α_ to be unity (the high end of the usual 0.05 to 1 range) and using material properties for aluminum (G = 25 GPa; _b_ = 0.286 nm), we can calculate that a shear stress of 71.5 MPa would correspond this mechanism. Since the slip event occurs at a much higher stress than this, the motion of existing dislocations moving through an existing dislocation network cannot be the mechanism responsible for the load drop.
+Next, we look at the possibility of the load drops corresponding to critical events involving the movement of preexisting dislocations. The images of the 1st load drop show that this cannot be the case here, where a dislocation-free crystal becomes filled with dislocation debris. Images of the 2nd load drop show a greatly increased dislocation density, pointing to the fact that dislocation nucleation is occurring. Finally, as mentioned earlier, a higher level of dislocation nucleation and movement can be observed under the indenter contact when compared to the rest of the crystal at the 3rd load drop. The possibility of existing dislocation movement can also be analytically considered by looking at the stress necessary to move dislocations through an existing dislocation structure. The existing dislocation density in Fig. 2e is estimated in the article as _ρ_ _~_ 10{{< sup "14" >}} m{{< sup "\\-2" >}}. Using the Taylor work hardening law (shown below), we can estimate the shear stress needed to cause slip in a crystal with a given dislocation density. This theory is based on the stress needed to pull two dislocations past each other. Here, the spacing between dislocations, _l_, is equivalent to the inverse square root of the dislocation density, _ρ_. By choosing _α_ to be unity (the high end of the usual 0.05 to 1 range) and using material properties for aluminum (G = 25 GPa; _b_ = 0.286 nm), we can calculate that a shear stress of 71.5 MPa would correspond this mechanism. Since the slip event occurs at a much higher stress than this, the motion of existing dislocations moving through an existing dislocation network cannot be the mechanism responsible for the load drop.
 
 {{< tableopen >}}
 {{< tropen >}}

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 title: Mechanical Behavior of a Virus - Problem Set 5
 uid: d5ac3e4c-e98f-a66d-535e-a241535e0491
@@ -22,9 +26,9 @@ Assumptions (from literature):
 
 Computation:
 
-σ = (2Eγ/πa)(1/2) = 13.8 MPa
+σ = (2Eγ/πa){{< sup "(1/2)" >}} = 13.8 MPa
 
-_(c) Ivanovska, et al. \[[1](#References)\] says the virus capsids are tough, but we said in class that this is the strain energy density up to the point of fracture. Assuming the fracture strength of a virus is 3 times the computed yield strength from PS3, and that the virus deforms in a linear elastic-linear strain hardening plastic mode up to the point of fracture, compute the toughness UT. Discussion on p. 7604 of their paper is also helpful._
+_(c) Ivanovska, et al. \[[1](#References)\] says the virus capsids are tough, but we said in class that this is the strain energy density up to the point of fracture. Assuming the fracture strength of a virus is 3 times the computed yield strength from PS3, and that the virus deforms in a linear elastic-linear strain hardening plastic mode up to the point of fracture, compute the toughness U{{< sub "T" >}}. Discussion on p. 7604 of their paper is also helpful._
 
 From PS3 we calculated the yield stress to be 2.2 MPA and thus we can assume the fracture stress to be 3 times this value or 6.6 MPA.
 

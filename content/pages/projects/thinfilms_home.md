@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 title: Plasticity and Fracture of Microelectronic Thin Films/Lines
 uid: d2c4d382-2bf8-b124-ef19-84d129bb758e
@@ -43,7 +47,7 @@ Wiki Assignments
 
 [Problem Set 5]({{< baseurl >}}/pages/projects/thinfilms_5)
 
-(b) Silicon on insulator delamination can be modeled by fracture between two dissimilar interfaces: Si and SiO2, for example. Assume that the interface blister you considered earlier is now an initial crack at the interface, and compute the fracture stress required to delaminate the film under Mode I loading. You can cite any required properties to implement a simple fracture theory such as Griffith's.
+(b) Silicon on insulator delamination can be modeled by fracture between two dissimilar interfaces: Si and SiO{{< sub "2" >}}, for example. Assume that the interface blister you considered earlier is now an initial crack at the interface, and compute the fracture stress required to delaminate the film under Mode I loading. You can cite any required properties to implement a simple fracture theory such as Griffith's.
 
 (c) In section 4 of the Frontiers paper, the authors discuss Bruel's innovation as leading to the realization that fracture could be induced by shearing. What kind of mode of loading is this, and will the stress required to initiate fracture for a given material be lower in this mode than in Mode I?
 

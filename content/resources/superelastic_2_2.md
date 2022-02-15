@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: Image accompanying a course assignment.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-22-mechanical-behavior-of-materials-spring-2008/683340c06e38e4496a3f270f3abc5021_superelastic_2_2.jpg
+file: /media/courses/3-22-mechanical-behavior-of-materials-spring-2008/683340c06e38e4496a3f270f3abc5021_superelastic_2_2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Projects
+ocw_type: OCWImage
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: superelastic_2_2
 uid: 683340c0-6e38-e449-6a3f-270f3abc5021

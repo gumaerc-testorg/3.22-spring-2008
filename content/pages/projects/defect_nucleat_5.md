@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 title: Defect Nucleation in Crystalline Metals - Problem Set 5
 uid: 70049e7d-dc51-6444-051a-d2a4d929ff2d
@@ -10,13 +14,13 @@ _(b) The papers you have chosen focus on the initial stages of plastic deformati
 
 The load required to plastically deform the thin film of Aluminum and the bulk metal at a depth of 1 micron below the free surface would differ considerably. The stress required in the case of the aluminum film would be much greater as compared to the bulk metal. This is because plastic deformation is facilitated by dislocation movement and it would be obstructed more in the thin film than in the bulk metal. This is attributed to the fact that when a stress is applied the dislocation loop would tend to move but would not be able to move easily as it would be repelled by the hard substrate as it has a higher modulus than aluminum so a higher stress is needed to move the dislocation loop close to the substrate.
 
-The energy of a dislocation goes as (Gb2)/2 so it would be more in the hard substrate and so also would be repelled by the hard substrate as the dislocation energy increases. We can also draw analogy to the fact that the dislocation would tend to be attracted to a free surface whose G = 0 because the dislocation energy becomes 0. Going on the same lines it would be repelled by a substrate whose G is greater than the G of the metal.
+The energy of a dislocation goes as (Gb{{< sup "2" >}})/2 so it would be more in the hard substrate and so also would be repelled by the hard substrate as the dislocation energy increases. We can also draw analogy to the fact that the dislocation would tend to be attracted to a free surface whose G = 0 because the dislocation energy becomes 0. Going on the same lines it would be repelled by a substrate whose G is greater than the G of the metal.
 
 In the case of the bulk metal a dislocation finds itself in the vicinity of the bulk metal only at a depth of 1 micron so it would move with no additional resistance.
 
 _(c) Compute the fracture stress of this Al according to the Griffith criterion, assuming an initial crack size at the resolution of the TEM used in Minor's indentation experiments \[[2](#ref)\]. Compare this to the published fracture strength of single crystal Al, and discuss._
 
-Here we assume an initial crack the size of the resolution of the microscope used by Minor in this study \[[2](#ref)\]. From the NCEM website \[[3](#ref)\], we find the minimum point-to-point resolution of the JEOL 3010 to be 1.7 _Å_, which we set equal to a crack of width 2_a_. The surface energy of aluminum was found to be 0.057 eV _Å_2 \[[4](#ref)\]. The Young's Modulus for aluminum is 68 GPa \[[5](#ref)\]. We now have all the necessary parameters to calculate the required fracture stress for a crack of this size.
+Here we assume an initial crack the size of the resolution of the microscope used by Minor in this study \[[2](#ref)\]. From the NCEM website \[[3](#ref)\], we find the minimum point-to-point resolution of the JEOL 3010 to be 1.7 _Å_, which we set equal to a crack of width 2_a_. The surface energy of aluminum was found to be 0.057 eV _Å_{{< sup "2" >}} \[[4](#ref)\]. The Young's Modulus for aluminum is 68 GPa \[[5](#ref)\]. We now have all the necessary parameters to calculate the required fracture stress for a crack of this size.
 
 ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_5_1.jpg)
 
@@ -30,7 +34,7 @@ Griffith's criterion: ![](/courses/materials-science-and-engineering/3-22-mechan
 
 Griffith's criterion considers crack propagation in single material. To apply Griffith's equation to thin film/substrate system, we need to consider both Al film and Si substrate.
 
-1.  Surface energy: In the thin film case, the change of surface energy (Γ) because of the crack is the sum of increased surface energy of Al (γAl) and Si (γSi) and the decrease of interface energy (γAl/Si) between thin film and substrate.
+1.  Surface energy: In the thin film case, the change of surface energy (Γ) because of the crack is the sum of increased surface energy of Al (γ{{< sub "Al" >}}) and Si (γ{{< sub "Si" >}}) and the decrease of interface energy (γ{{< sub "Al/Si" >}}) between thin film and substrate.
     
     {{< tableopen >}}
     {{< tropen >}}
@@ -51,15 +55,15 @@ Griffith's criterion considers crack propagation in single material. To apply Gr
     
     This value corresponds to 2γ in the Griffith's equation.
     
-2.  Young's modulus: In a delamination problem, Young's modulus (_E_) should also be modified by using effective Young's modulus (_Eeff_) since the release of elastic energy comes from both the thin film and substrate.
+2.  Young's modulus: In a delamination problem, Young's modulus (_E_) should also be modified by using effective Young's modulus (_E{{< sub "eff" >}}_) since the release of elastic energy comes from both the thin film and substrate.
     
 3.  The effective energy release rate is given in \[[7](#ref)\], ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_5_4.jpg)
     
-    where D1 is given as ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_5_5.jpg) and ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_5_6.jpg) is the plane strain modulus for the film and substrate.
+    where D{{< sub "1" >}} is given as ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_5_5.jpg) and ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_5_6.jpg) is the plane strain modulus for the film and substrate.
     
-    ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_5_7.jpg) = 80 GPa. (_Ef_ is 70 GPa and _νf_ is 0.35)  
-    ![defec_nuclea_5_8.jpg](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_5_8.jpg) = 141 GPa. (E\_s is 130 GPa and _ν_s is 0.28)  
-    D1 value for our Al/Si system is therefore -0.28.  
+    ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_5_7.jpg) = 80 GPa. (_E{{< sub "f" >}}_ is 70 GPa and _ν{{< sub "f" >}}_ is 0.35)  
+    ![defec_nuclea_5_8.jpg](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_5_8.jpg) = 141 GPa. (E\_s is 130 GPa and _ν_{{< sub "s" >}} is 0.28)  
+    D{{< sub "1" >}} value for our Al/Si system is therefore -0.28.  
       
     ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_5_9.jpg)
     

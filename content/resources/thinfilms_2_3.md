@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: Image accompanying a course assignment.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-22-mechanical-behavior-of-materials-spring-2008/33294c80065630b1dd2d3ff727d09a08_thinfilms_2_3.jpg
+file: /media/courses/3-22-mechanical-behavior-of-materials-spring-2008/33294c80065630b1dd2d3ff727d09a08_thinfilms_2_3.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Projects
+ocw_type: OCWImage
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: thinfilms_2_3
 uid: 33294c80-0656-30b1-dd2d-3ff727d09a08

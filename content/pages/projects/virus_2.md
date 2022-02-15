@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 title: Mechanical Behavior of a Virus - Problem Set 2
 uid: 17fb7a5b-c938-5875-d1ff-a27e6dd55da8
@@ -21,17 +25,17 @@ Assumptions: (from cited paper)
 > 
 > \- CCMV: radius ~ 12 nm
 > 
-> \- Föppl-von Kármán number (γ) describes the elastic properties of thin shelled spheres. γ ≡ R²(Ke/Kb), where R is the equatorial radius of the virus, Ke is the elastic modulus, and Kb is the bending rigidity. (It has been shown that γ ~ 300 for CCMV)
+> \- Föppl-von Kármán number (γ) describes the elastic properties of thin shelled spheres. γ ≡ R²(K{{< sub "e" >}}/K{{< sub "b" >}}), where R is the equatorial radius of the virus, K{{< sub "e" >}} is the elastic modulus, and K{{< sub "b" >}} is the bending rigidity. (It has been shown that γ ~ 300 for CCMV)
 > 
-> \- Internal pressure of a filled CCMV is approximated by the following: π = 0.01 \* Ke/R ~ 1 atm
+> \- Internal pressure of a filled CCMV is approximated by the following: π = 0.01 \* K{{< sub "e" >}}/R ~ 1 atm
 
 Calculations:
 
-> \- Ke = (1 atm\*12 nm) / (0.01) = **.122 N/m²**
+> \- K{{< sub "e" >}} = (1 atm\*12 nm) / (0.01) = **.122 N/m²**
 > 
-> \- Kb = (R²\*Ke) / γ = **5.84E-20 Nm²**
+> \- K{{< sub "b" >}} = (R²\*K{{< sub "e" >}}) / γ = **5.84E-20 Nm²**
 > 
-> \- Ke/Kb proportional to γ by γ ≡ R²(Ke/Kb)
+> \- K{{< sub "e" >}}/K{{< sub "b" >}} proportional to γ by γ ≡ R²(K{{< sub "e" >}}/K{{< sub "b" >}})
 > 
 > \- γ = 300, thus strain energy contributes 300 times more to the stress than the bending energy
 
@@ -39,11 +43,11 @@ As shown in Fig. 1 of \[[2](#References)\], the elastic response of the capsid t
 
 _(c) The authors \[[1](#References)\] rely on a thermodynamic definition of stresses and a Lennard-Jones inter-capsomer potential to predict the dependence of stress on capsid size. State their definition of the LJ potential in terms of the symbols we used in class, and explain why the radial and tangential stresses they compute from this potential (under the defined stress state) monotonically decrease with increasing capsid radius._
 
-ε0 = 4\*ALJ
+ε{{< sub "0" >}} = 4\*A{{< sub "LJ" >}}
 
-σij = B1
+σ{{< sub "ij" >}} = B{{< sub "1" >}}
 
-(2)(1/6)\*σij = B2
+(2){{< sup "(1/6)" >}}\*σ{{< sub "ij" >}} = B{{< sub "2" >}}
 
 The convention used in the paper \[[1](#References)\] is for compressive stress to be positive and tensile stress to be negative. Thus, as the capsid radius, R, increases (and likewise, the center-to-center separation between two capsomers in the capsid shell), the capsomers experience less and less compressive stress until the virus reaches an optimal radius, past which the capsomers begin to experience tensile stress. The stress monotonically decreases with increasing R. As you decrease the center-to-center capsomer separation (and virus radius) below the equilibrium value, a compressive stress is required to keep them from going back to their equilibrium. Likewise, if you increase the center-to-center capsomer separation beyond the equilibrium value, a tensile stress is required to hold them there. This is supported by the LJ potential, which describes that a repulsive force dominates at small separations (below some equilibrium separation) and an attractive force dominates beyond the equilibrium separation. Therefore at center-to-center capsomer distances below the equilibrium value, the aforementioned compressive stress is required to balance this repulsive force between capsomers while at separations beyond the equilibrium value, an attractive force is required to balance the tensile stress. Because the repulsive and attractive contributions to the LJ potential have different dependencies on R, the energy minimum is asymmetric. At low R below the equilibrium value, the repulsive potential rises faster than the attractive potential does at high R. Thus, the compressive stress at low center-to-center capsomer separations decreases with R faster than the tensile stress does at separations beyond the equilibrium value. This has implications on virus mechanical behavior as described below. (Please see attached graphs).
 

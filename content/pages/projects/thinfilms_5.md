@@ -1,12 +1,16 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 title: Plasticity and Fracture of Microelectronic Thin Films/Lines - Problem Set 5
 uid: c085c269-53e4-62fe-e9b1-2c684b93cd85
 ---
 
-_(b) Silicon on insulator delamination can be modeled by fracture between two dissimilar interfaces: Si and SiO2, for example. Assume that the interface blister you considered earlier is now an initial crack at the interface, and compute the fracture stress required to delaminate the film under Mode I loading. You can cite any required properties to implement a simple fracture theory such as Griffith's._
+_(b) Silicon on insulator delamination can be modeled by fracture between two dissimilar interfaces: Si and SiO{{< sub "2" >}}, for example. Assume that the interface blister you considered earlier is now an initial crack at the interface, and compute the fracture stress required to delaminate the film under Mode I loading. You can cite any required properties to implement a simple fracture theory such as Griffith's._
 
 Image removed due to copyright restrictions. Please see Fig. 9 in \[[5](#ref)\], with the dimensions a (width of the crack) and t (length of the crack) marked.
 
@@ -19,7 +23,7 @@ _(c) In section 4 of the Frontiers paper \[[5](#ref)\], the authors discuss Brue
 
 The crack propagating in the direction normal to the shear stress, so the load is Mode III.
 
-The stress required to initiate fracture for a given material will be higher in this mode than in Mode I. Mode I fracture is preceded only by linear elastic deformation. Mode III fracture is preceded by macroscopic yielding. The Gc values (fracture toughness) for Mode III fracture are typically higher than for Mode I and Mode II fracture as a result of increased crack tip blunting (which raises ρ) and greater values of ε.
+The stress required to initiate fracture for a given material will be higher in this mode than in Mode I. Mode I fracture is preceded only by linear elastic deformation. Mode III fracture is preceded by macroscopic yielding. The G{{< sub "c" >}} values (fracture toughness) for Mode III fracture are typically higher than for Mode I and Mode II fracture as a result of increased crack tip blunting (which raises ρ) and greater values of ε.
 
 {{< anchor "ref" >}}{{< /anchor >}}References
 ---------------------------------------------

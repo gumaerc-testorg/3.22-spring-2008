@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 title: Effects of Multidimensional Defects on III-V Semiconductor Mechanics - Problem
   Set 2
@@ -35,7 +39,7 @@ Image removed due to copyright restrictions. Please see Table 1 in \[[3](#ref)\]
   
  
 
-The Poisson's ratio (ν) calculated (by taking the ratio -S12/S11 , values of which are given in table 1) for GaAs, Si, and AlAs are respectively 0.3162, 0.2727, and 0.325. Thus we find that the Poisson's ratio for AlAs > GaAs > Si. From literature, the Poisson's ratio for bulk GaAs is 0.31 \[[4](#ref)\], for Si it ranges between 0.22 for bulk isotropic, and 0.27 for <111> crystalline Si \[[4](#ref)\], and 0.328 for AlAs \[[5](#ref)\]. The calculated values are in close agreement with the values got from literature.
+The Poisson's ratio (ν) calculated (by taking the ratio -S{{< sub "12" >}}/S{{< sub "11" >}} , values of which are given in table 1) for GaAs, Si, and AlAs are respectively 0.3162, 0.2727, and 0.325. Thus we find that the Poisson's ratio for AlAs > GaAs > Si. From literature, the Poisson's ratio for bulk GaAs is 0.31 \[[4](#ref)\], for Si it ranges between 0.22 for bulk isotropic, and 0.27 for \<111> crystalline Si \[[4](#ref)\], and 0.328 for AlAs \[[5](#ref)\]. The calculated values are in close agreement with the values got from literature.
 
 _(c) Hjort's Fig. 2 \[[3](#ref)\] seems to indicate a different number of independent elastic constants than your crystal structure in (a) would suggest; explain. (It's a simple explanation.)_
 
@@ -47,7 +51,7 @@ Image removed due to copyright restrictions. Please see Fig. 2 in \[[3](#ref)\].
   
  
 
-As expected, the matrix in Fig. 2 shows three independent elastic constants, C11, C12 and C44 . However, this matrix has 9x9 elements because it also accounts for the interactions between the mechanical and electromagnetic fields. It displays the relationship between orientation, piezoelectricity, d, and dielectricity, ε and the corresponding responses: SE as the mechanical response to a mechanical force, dT as the mechanical response to an electric field, d as the electrical response to a mechanical force and finally εS as the electrical response to an electrical field.
+As expected, the matrix in Fig. 2 shows three independent elastic constants, C{{< sub "11" >}}, C{{< sub "12" >}} and C{{< sub "44" >}} . However, this matrix has 9x9 elements because it also accounts for the interactions between the mechanical and electromagnetic fields. It displays the relationship between orientation, piezoelectricity, d, and dielectricity, ε and the corresponding responses: S{{< sup "E" >}} as the mechanical response to a mechanical force, d{{< sup "T" >}} as the mechanical response to an electric field, d as the electrical response to a mechanical force and finally ε{{< sup "S" >}} as the electrical response to an electrical field.
 
 _(d) Based on your analysis of GaAs elastic anisotropy, explain (graphically and/or text) which film orientation you would aim to achieve to create GaAs films or wafers that would be maximally resistant to bending._
 
@@ -59,7 +63,7 @@ Image removed due to copyright restrictions. Please see Fig. 3a in \[[3](#ref)\]
   
  
 
-To resist bending, we want to choose the orientation with the highest Young's elastic modulus. This is the <111>, as can be seen in Fig. 3a and in our calculations, attached. ([PDF]({{< baseurl >}}/resources/iii_v_2_attach))
+To resist bending, we want to choose the orientation with the highest Young's elastic modulus. This is the \<111>, as can be seen in Fig. 3a and in our calculations, attached. ([PDF]({{< baseurl >}}/resources/iii_v_2_attach))
 
 However, it is important to understand the exact orientation of this the (111) planes with respect to film-substrate interface, which would minimize bending. To do so let us first look at a bi-material strip as shown in the figure below. The two materials can be characterized by different elastic moduli, and thus will exhibit different strains under the same state of stress. This leads to the bending of the strip to incorporate this difference, as understood more clearly by the figure.
 

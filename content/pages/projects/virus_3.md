@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 title: Mechanical Behavior of a Virus - Problem Set 3
 uid: 2c6ba9bb-3678-ab89-4fd2-c075358cc9c5
@@ -8,19 +12,19 @@ uid: 2c6ba9bb-3678-ab89-4fd2-c075358cc9c5
 
 _(b) Considering Ivanovska, et al.'s Fig. 1E \[[1](#References)\] rendering of a bacteriophage prohead "shell", compute the stress required to initiate plastic deformation if the prohead were considered to be a short cylindrical shell under uniaxial compression._
 
-Ivanovska, et al. \[[1](#References)\] states on p. 7604 of the manuscript that proheads responded linearly to indentation forces up to approximately 2.8 nN. Define this as Fyield. From this, we can calculate the stress required to initiate plastic deformation, σy, based on the cross-sectional area A. In other words, we're given Fyield = 2.8 nN; and σy = Fyield/A.
+Ivanovska, et al. \[[1](#References)\] states on p. 7604 of the manuscript that proheads responded linearly to indentation forces up to approximately 2.8 nN. Define this as F{{< sub "yield" >}}. From this, we can calculate the stress required to initiate plastic deformation, σ{{< sub "y" >}}, based on the cross-sectional area A. In other words, we're given F{{< sub "yield" >}} = 2.8 nN; and σ{{< sub "y" >}} = F{{< sub "yield" >}}/A.
 
-**Finding cross-sectional area A:** The manuscript states that the cantilever used was OMCL-RC800PSA from Olympus. Based on the manufacturer specifications \[[2](#References)\], the probe is a sharpened pyramidal tip, but we'll approximate it as a cone here with a tip radius **r = 15 nm, tip angle θ = 45°, tip height h = 2.9 μm** (Fig. 1). Because the prohead and cantilever are of comparable sizes, we cannot model the prohead surface area being acted upon as a flat plane. Thus we cannot simply take the tip area to be our cross sectional area. Our actual cross-sectional area is the projected contact area (shaded region in Fig. 1). Therefore, using cone geometry, we can find A via **A = π**(r1)2, where r1 is as indicated in Fig. 3. To calculate this, we need to know the strain at yield point, which is provided by the manuscript (pg. 7604): **strainyield = maximum linear displacement = 12 nm**. Using trigonometry, we're able to find the following value: **r1 = 19.97 nm**. Therefore, **A** = **1252.2 nm2**.
+**Finding cross-sectional area A:** The manuscript states that the cantilever used was OMCL-RC800PSA from Olympus. Based on the manufacturer specifications \[[2](#References)\], the probe is a sharpened pyramidal tip, but we'll approximate it as a cone here with a tip radius **r = 15 nm, tip angle θ = 45°, tip height h = 2.9 μm** (Fig. 1). Because the prohead and cantilever are of comparable sizes, we cannot model the prohead surface area being acted upon as a flat plane. Thus we cannot simply take the tip area to be our cross sectional area. Our actual cross-sectional area is the projected contact area (shaded region in Fig. 1). Therefore, using cone geometry, we can find A via **A = π**(r{{< sub "1" >}}){{< sup "2" >}}, where r{{< sub "1" >}} is as indicated in Fig. 3. To calculate this, we need to know the strain at yield point, which is provided by the manuscript (pg. 7604): **strain{{< sub "yield" >}} = maximum linear displacement = 12 nm**. Using trigonometry, we're able to find the following value: **r{{< sub "1" >}} = 19.97 nm**. Therefore, **A** = **1252.2 nm{{< sup "2" >}}**.
 
 ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/virus_3_1.jpg)
 
 Fig. 1. Cantilever Probe Tip. Dimensions based on manufacturer specifications of OMCL-RC800PSA from Olympus. Tip is approximated as a cone with tip radius r, tip height h and tip angle theta. Shaded region indicates cross sectional area used for yield stress calculation.
 
-**Finding σy: σy = 2.8 nN / (1252.2 nm2) = 2.2 MPa**
+**Finding σ{{< sub "y" >}}: σ{{< sub "y" >}} = 2.8 nN / (1252.2 nm{{< sup "2" >}}) = 2.2 MPa**
 
 _(c) These authors \[[1](#References)\] state that imaging of the proheads in contact mode atomic force microscopy (AFM) allows for the study of prohead deformation under "uniaxial pressure." This is incorrect at several levels. Develop a brief, justified objection to this claim, considering the design of the experiment in detail._
 
-The authors used scanning force microscopy (SFM) to image the proheads under different maximal loading forces and **assumed** this to be "**uniaxial pressure**". However, given the imaging modality rasters an AFM tip, with a contact region of approximately 5 nm, across the virus prohead, which itself has an inherent curvature, the applied force is clearly not uniaxial, see figure below. Along the curvature of the virus prohead the applied force is resolved into various components. Also, the size of AFM tips (< 20 nm) are on the order of the size of a prohead and thus cannot be considered as a point load when forces are applied to the prohead.
+The authors used scanning force microscopy (SFM) to image the proheads under different maximal loading forces and **assumed** this to be "**uniaxial pressure**". However, given the imaging modality rasters an AFM tip, with a contact region of approximately 5 nm, across the virus prohead, which itself has an inherent curvature, the applied force is clearly not uniaxial, see figure below. Along the curvature of the virus prohead the applied force is resolved into various components. Also, the size of AFM tips (\< 20 nm) are on the order of the size of a prohead and thus cannot be considered as a point load when forces are applied to the prohead.
 
 ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/virus_3_2.jpg)
 

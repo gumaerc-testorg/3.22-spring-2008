@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 title: Role of Water in Accelerated Fracture of Fiber Optic Glass
 uid: 25015f4f-2da1-f23e-6220-37f2a8145e3f

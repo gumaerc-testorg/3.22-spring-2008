@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 title: Effects of Radiation on Mechanical Behavior of Crystalline Materials
 uid: fec2f6e3-d5f7-3aff-9e49-9fe0cd9ac6f0

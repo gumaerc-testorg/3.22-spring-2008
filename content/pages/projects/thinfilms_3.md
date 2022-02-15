@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 title: Plasticity and Fracture of Microelectronic Thin Films/Lines - Problem Set 3
 uid: 1cc6e515-e08d-3ae8-5946-4bd60d338299
@@ -16,7 +20,7 @@ Image removed due to copyright restrictions. Please see Fig. 7 in \[[1](#ref)\].
   
  
 
-Let us consider the two-film structure model above; we can refer to ZnO as material 1, and Si3N4 as material 2.
+Let us consider the two-film structure model above; we can refer to ZnO as material 1, and Si{{< sub "3" >}}N{{< sub "4" >}} as material 2.
 
 ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/thinfilms_3_1.jpg)
 
@@ -32,7 +36,7 @@ Table removed due to copyright restrictions. Please see Table 1 in \[[1](#ref)\]
 
 We can separate the compliance matrix to two parts: the first one is related to the 1, 2, 3 dimension, and the other is related to the 4, 5, 6 dimension below:
 
-For Si3N4 as material 2,
+For Si{{< sub "3" >}}N{{< sub "4" >}} as material 2,
 
 ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/thinfilms_3_2.jpg)
 
@@ -74,7 +78,7 @@ The contributors of intrinsic strain mentioned in the literature are:
 5.  shrinkage during process which causes tensile stress
 6.  grain boundaries
 
-For this system, the Si3N4 and ZnO films are deposited through PECVD.
+For this system, the Si{{< sub "3" >}}N{{< sub "4" >}} and ZnO films are deposited through PECVD.
 
 Among the 6 contributors above;
 
@@ -83,7 +87,7 @@ Among the 6 contributors above;
 3.  Microvoids are caused by poor quality of film during process, which depends on the material, the environment, and the growth rate during PECVD.
 4.  Since plasma (Ar, for example) is used in PECVD, it is very possible that gas will be entrapped in the film. Therefore this contribution is relatively significant.
 5.  Shrinkage often happens in ceramics during sintering. There is no sintering in the process, so this contributor is small.
-6.  For Si3N4, it is an amorphous film, so there are no grain boundaries. For ZnO, this effect is possible.
+6.  For Si{{< sub "3" >}}N{{< sub "4" >}}, it is an amorphous film, so there are no grain boundaries. For ZnO, this effect is possible.
 
 Integrating and rank-ordering all the effects, I get the conclusion below:
 
@@ -95,7 +99,7 @@ Use the material properties give in Table I,
 
 ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/thinfilms_3_9.jpg)
 
-Given that residual strain is 10\-12
+Given that residual strain is 10{{< sup "\\-12" >}}
 
 Substituting S matrix and residual strain into the residual stress tensor equation given above, we have residual stress,
 

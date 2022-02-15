@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 title: Carbon Nanotube Mechanics - Problem Set 3
 uid: 9b78759d-a121-d57c-4c1b-bbb77f6f0a17
@@ -54,7 +58,7 @@ Given our boundary condition on the first derivative of u with respect to x take
 
 ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/cnt_mech_3_9.jpg)
 
-Given our boundary condition on u at x = 0, we see that this constant is also zero. Setting the stress equal to the yield stress and taking the value of c at Rmax to find the very earliest possible yield (minimum value of deflection), we get a minimum free-end deflection of
+Given our boundary condition on u at x = 0, we see that this constant is also zero. Setting the stress equal to the yield stress and taking the value of c at R{{< sub "max" >}} to find the very earliest possible yield (minimum value of deflection), we get a minimum free-end deflection of
 
 ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/cnt_mech_3_10.jpg)
 

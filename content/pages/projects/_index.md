@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 ---
@@ -27,7 +30,7 @@ PS4: No modifications required.
 
 PS5: Address specific questions listed on your team Wiki page. All teams have the same part (a), which is to address any comments related to completion of PS3 Wiki content. Note that this is the final content modification requested; PS6 will include preparation of slides to share with rest of class on your special topic.
 
-PS6: Use this template to create a <12 minutes slide presentation that summarizes your study for the class. Do not add any slides to this deck, just modify the template to keep it short and sweet. Note that you will answer questions on quiz 3 related to this content, so do your best to share this information accurately and concisely. Have fun! ([PDF]({{< baseurl >}}/resources/spectopictemplat))
+PS6: Use this template to create a \<12 minutes slide presentation that summarizes your study for the class. Do not add any slides to this deck, just modify the template to keep it short and sweet. Note that you will answer questions on quiz 3 related to this content, so do your best to share this information accurately and concisely. Have fun! ([PDF]({{< baseurl >}}/resources/spectopictemplat))
 
 Group Projects
 --------------

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 title: Defect Nucleation in Crystalline Metals - Problem Set 2
 uid: 6ab0d9bf-3df7-cba9-3348-74c6c3b67d39
@@ -66,7 +70,7 @@ Eq. 2
   
  
 
-Therefore, the separation is _h = z1 - z2_. However, this separation currently requires two different coordinate systems for its definition.
+Therefore, the separation is _h = z{{< sub "1" >}} - z{{< sub "2" >}}_. However, this separation currently requires two different coordinate systems for its definition.
 
 Switching to common set of axes: _x and y_
 
@@ -158,7 +162,7 @@ Eq. 6
   
  
 
-where α is the angle between the axes of principal curvature of each surface (_x1 and x2_)
+where α is the angle between the axes of principal curvature of each surface (_x{{< sub "1" >}} and x{{< sub "2" >}}_)
 
 We will now consider two surfaces of general shape, centered at _O_, deformed with a normal load _P_ applied (Figure 1).
 
@@ -174,11 +178,11 @@ Figure 1 Schematic showing the geometry of the problem \[[2](#ref)\].
 
 We now must utilize Hertzian contact theory to determine displacements, which then allow us to find strains and stresses. Hertzian theory makes some assumptions which must be declared at this juncture. It is assumed that each body can be regarded as an elastic half-space which is loaded over an elliptical area on its surface plane. This is done because well-developed solutions exist for solving boundary value problems for an elastic half-space. It is also assumed that the surfaces are continuous and non-conforming. The strains experienced by the half-space area small. These last two considerations are represented by the assumptions that the contact radius is much smaller than the radius of curvature of each body. Finally, it is assumed that the surfaces are frictionless.
 
-During compression, distant points _T1_ and _T2_ move towards O by displacements _δ1_ and _δ2_.
+During compression, distant points _T{{< sub "1" >}}_ and _T{{< sub "2" >}}_ move towards O by displacements _δ{{< sub "1" >}}_ and _δ{{< sub "2" >}}_.
 
-Due to contact pressure, the surface of each body is displaced parallel to O in the z direction by _uz1_ and _uz2_ relative to _T1_ and _T2_.
+Due to contact pressure, the surface of each body is displaced parallel to O in the z direction by _u{{< sub "z1" >}}_ and _u{{< sub "z2" >}}_ relative to _T{{< sub "1" >}}_ and _T{{< sub "2" >}}_.
 
-Looking at points S1 and S2, which are coincident within the elastic surface:
+Looking at points S{{< sub "1" >}} and S{{< sub "2" >}}, which are coincident within the elastic surface:
 
   
  
@@ -203,7 +207,7 @@ Eq. 7
   
  
 
-If we write _δ = δ1 + δ2_ and use Eq. 6, we get elastic displacements:
+If we write _δ = δ{{< sub "1" >}} + δ{{< sub "2" >}}_ and use Eq. 6, we get elastic displacements:
 
   
  
@@ -232,9 +236,9 @@ At this point, we can consider the specific geometry of our problem of interest 
 
 For this situation, we are interested in the contact of two solids of revolution. A solid of revolution is a solid body which is obtained by revolving a plane figure about some axis.
 
-_(R1' = R1" = R1 ; R2' = R2" = R2)_
+_(R{{< sub "1" >}}' = R{{< sub "1" >}}" = R{{< sub "1" >}} ; R{{< sub "2" >}}' = R{{< sub "2" >}}" = R{{< sub "2" >}})_
 
-Therefore: _A = B = ½(1/R1 + 1/R2)_
+Therefore: _A = B = ½(1/R{{< sub "1" >}} + 1/R{{< sub "2" >}})_
 
 The circular symmetry of the problem means that the contact area will be circular (with a radius we will call _a_).
 
@@ -261,7 +265,7 @@ Eq. 9
   
  
 
-Where _(1/R) = (1/R1 + 1/R2)_ is the relative curvature.
+Where _(1/R) = (1/R{{< sub "1" >}} + 1/R{{< sub "2" >}})_ is the relative curvature.
 
 A pressure distribution which gives displacements satisfying Eq. 9 is given in Johnson Section 3.4 \[[2](#ref)\]. This gives the stress resulting from an applied pressure over a circular area for an elastic half-space (Hertzian contact).
 
@@ -338,7 +342,7 @@ Eq. 12
   
  
 
-Substituting Eq. 11 into Eq. 9 for _uz1_ and _uz2_, we are left with:
+Substituting Eq. 11 into Eq. 9 for _u{{< sub "z1" >}}_ and _u{{< sub "z2" >}}_, we are left with:
 
   
  
@@ -464,7 +468,7 @@ Eq. 18
   
  
 
-We also get an equation for the maximum pressure, _po_, if we compare our new expressions for _a_ and _δ_ with the old ones.
+We also get an equation for the maximum pressure, _p{{< sub "o" >}}_, if we compare our new expressions for _a_ and _δ_ with the old ones.
 
   
  

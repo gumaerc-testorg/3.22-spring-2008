@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 title: Superelastic and Superplastic Alloys - Problem Set 3
 uid: 930bd449-6d42-b095-aae2-1811720720e4
@@ -15,7 +19,7 @@ von Mises' (maximum distortion energy) criterion is "when the effective stress, 
 
 ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/superlastic_3_1.jpg)
 
-exceeds the uniaxial yield stress, then the material will plastically flow." The criterion was stated by von Mises without a physical interpretation, but it is now accepted that it demonstrates the critical value of the distortion (or shear) component of the deformation energy of a body. Based on this understanding, a body flows plastically in a complex state of stress when the distortional deformation energy is equal to the distortional deformation energy in uniaxial stress (tension or compression). This criterion is also known as the J2 plasticity criterion because it is the second invariant of the stress deviator.
+exceeds the uniaxial yield stress, then the material will plastically flow." The criterion was stated by von Mises without a physical interpretation, but it is now accepted that it demonstrates the critical value of the distortion (or shear) component of the deformation energy of a body. Based on this understanding, a body flows plastically in a complex state of stress when the distortional deformation energy is equal to the distortional deformation energy in uniaxial stress (tension or compression). This criterion is also known as the J{{< sub "2" >}} plasticity criterion because it is the second invariant of the stress deviator.
 
 Mathematically, the yield function for the von Mises condition is written as
 
@@ -25,7 +29,7 @@ or alternatively,
 
 ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/superlastic_3_3.jpg)
 
-where _k_ is a critical value. Substituting the value of J2 into this equation, we obtain the von Mises yield criterion as a function of the principal stresses:
+where _k_ is a critical value. Substituting the value of J{{< sub "2" >}} into this equation, we obtain the von Mises yield criterion as a function of the principal stresses:
 
 ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/superlastic_3_4.jpg)
 
@@ -134,7 +138,7 @@ To confirm that the transformations were done correctly, the same data (except f
   
  
 
-The change in yield surface between the two different temperatures for Cu-Al-Be could be explained if 60°C is above the Af temperature for Cu-Al-Be while 32°C is below the Mf temperature for Cu-Al-Be and the testing temperature for the NiTi was below that materials Mf. The changes between the two different temperatures of Cu-Al-Be would therefore represent two different phases of the material. This would indicate that the proposed yield surface would be appropriate for materials in their martensitic state but not for materials in their austenitic state. The agreement between the NiTi data and the Cu-Al-Be data taken at 32°C would indicate that the yield surface, when scaled properly, would characterize both the NiTi and Cu-Al-Be quite well.
+The change in yield surface between the two different temperatures for Cu-Al-Be could be explained if 60°C is above the A{{< sub "f" >}} temperature for Cu-Al-Be while 32°C is below the M{{< sub "f" >}} temperature for Cu-Al-Be and the testing temperature for the NiTi was below that materials M{{< sub "f" >}}. The changes between the two different temperatures of Cu-Al-Be would therefore represent two different phases of the material. This would indicate that the proposed yield surface would be appropriate for materials in their martensitic state but not for materials in their austenitic state. The agreement between the NiTi data and the Cu-Al-Be data taken at 32°C would indicate that the yield surface, when scaled properly, would characterize both the NiTi and Cu-Al-Be quite well.
 
 _(d) Contrast the Bouvet yield surface with the other non-asymmetric yield surfaces considered in PS3. Is this equivalent to one of them or different, and how? What is the atomistic origin of the asymmetry justifying the Bouvet yield criteria?_
 
@@ -142,7 +146,7 @@ The yield surface presented in the papers is merely the Von Mises yield surface 
 
 ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/superlastic_3_21.jpg)
 
-Therefore, the yield surface is the Von Mises yield surface when _g_\=1. This happens when _a_(1-_y_σ)=1. However, _y_σ is a complex function of the stress state, so there is no single parameter that causes this yield surface to degenerate to the Von Mises condition.
+Therefore, the yield surface is the Von Mises yield surface when _g_\=1. This happens when _a_(1-_y_{{< sub "σ" >}})=1. However, _y_{{< sub "σ" >}} is a complex function of the stress state, so there is no single parameter that causes this yield surface to degenerate to the Von Mises condition.
 
 The yield condition presented in the papers is a curve fit of the data. Therefore, plotting the normalized source data along with the Mises and Tresca yield conditions will highlight the differences. This comparison is shown in both the ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/superlastic_3_19.jpg) vs. ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/superlastic_3_20.jpg) and ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/superlastic_3_17.jpg) vs. ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/superlastic_3_18.jpg).
 
@@ -165,7 +169,7 @@ What is the atomistic origin of the asymmetry justifying the Bouvet yield criter
 
 Image removed due to copyright restrictions. Please see Fig. 1 in Sleight, Arthur. "Materials Science: Zero-expansion Plan." _Nature_ 425 (October 16, 2003): 676-676.
 
-Compression is the regime of r < r0 and tension is the regime of r > r0. They are obviously different by intuition.
+Compression is the regime of r \< r{{< sub "0" >}} and tension is the regime of r > r{{< sub "0" >}}. They are obviously different by intuition.
 
 {{< anchor "ref" >}}{{< /anchor >}}References
 ---------------------------------------------

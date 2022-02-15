@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 title: Plasticity and Fracture of Microelectronic Thin Films/Lines - Problem Set 2
 uid: 18f53477-73f8-8b4d-a912-b104d6509167
@@ -22,23 +26,23 @@ thus α = 2θ
 
 On the other hand, in the right-angle triangle l L δ
 
-l2 + δ2 = L2
+l{{< sup "2" >}} + δ{{< sup "2" >}} = L{{< sup "2" >}}
 
-In the limitation that δ<<L, θ = δ/L
+In the limitation that δ\<\<L, θ = δ/L
 
 The length of the arch L corresponds to an center angle of α by
 
 α = L/R
 
-thus κ = 1/R = α/L = 2θ/L = 2δ/L2 = 2δ/(l2 + δ2)
+thus κ = 1/R = α/L = 2θ/L = 2δ/L{{< sup "2" >}} = 2δ/(l{{< sup "2" >}} + δ{{< sup "2" >}})
 
 _(b) Graphically represent the structure of Si in SOI, at the unit cell and micrometer-scale level, and separately indicate the closest packed plane and direction in that plane for this structure._
 
-At the unit cell scale level, Si has diamond structure. The unit cell is FCC, with Si atoms filling half the tetrahedron interstitial sites. The closest packed plane is {111}, and the closest packed direction in this plane is plane is <110>.
+At the unit cell scale level, Si has diamond structure. The unit cell is FCC, with Si atoms filling half the tetrahedron interstitial sites. The closest packed plane is {111}, and the closest packed direction in this plane is plane is \<110>.
 
 ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/silicon.jpg)
 
-At micrometer-scale level, silicon thin film is single crystalline, with (100) oriented normal to the surface. SiO2 is amorphous. The substrate can be single silicon wafer, sapphire, etc.
+At micrometer-scale level, silicon thin film is single crystalline, with (100) oriented normal to the surface. SiO{{< sub "2" >}} is amorphous. The substrate can be single silicon wafer, sapphire, etc.
 
 ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/layers.jpg)
 
@@ -106,7 +110,7 @@ _h_ = height at the center of the blister
 
 5\. Strain:
 
-Before forming a blister, the profile of the film is along XLXR in Fig. 3. However, after forming a blister, the film profile is along XLXHXR. Therefore, the length of film along x or y direction is stretched from |XLXR| to |XLXHXR|. As a result, the strain along x or y direction is
+Before forming a blister, the profile of the film is along X{{< sub "L" >}}X{{< sub "R" >}} in Fig. 3. However, after forming a blister, the film profile is along X{{< sub "L" >}}X{{< sub "H" >}}X{{< sub "R" >}}. Therefore, the length of film along x or y direction is stretched from |X{{< sub "L" >}}X{{< sub "R" >}}| to |X{{< sub "L" >}}X{{< sub "H" >}}X{{< sub "R" >}}|. As a result, the strain along x or y direction is
 
   
  

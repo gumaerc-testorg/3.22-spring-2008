@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 title: Effects of Radiation on Mechanical Behavior of Crystalline Materials - Problem
   Set 3
@@ -20,11 +24,11 @@ _(c) Garner, et al. \[[1](#Reference)\] then discuss that ion bombardment at met
 Assumptions
 -----------
 
-Material around gas bubble can be modeled as a spherical pressure vessel. Outer radius of pressure vessel, ro, taken to be the center of gas bubble beneath the material surface
+Material around gas bubble can be modeled as a spherical pressure vessel. Outer radius of pressure vessel, r{{< sub "o" >}}, taken to be the center of gas bubble beneath the material surface
 
 ![radiation_3_1.jpg](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/radiation_3_1.jpg)
 
-Since _r/t_ < 10, must use "thick wall pressure vessel theory
+Since _r/t_ \< 10, must use "thick wall pressure vessel theory
 
 ![radiation_3_2.jpg](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/radiation_3_2.jpg)
 
@@ -58,7 +62,7 @@ The lateral stress would have the effect of squeezing the FCC and BCC grains in 
 
 In addition, lateral stresses arise from voids created by ion bombardment. These are often due to gas pressure or to gas-free void nucleation, and are isotropically distributed throughout the plane parallel to the surface assuming constant normal irradiation. All these lateral stresses would have the effect of squeezing all the grains from four of its six sides, and these lateral stresses will cause the grains to expand into the free surface.
 
-Mathematically, if the bulk of a crystal experiences a hydrostatic stress S from a combination of thermal expansion, void creation, gas bubble formation, and other processes, than at the surface σ1 = σ2 = S, and σ3 = 0. Therefore the lateral strain in the direction normal to the surface would be twice the Poisson's ratio times the hydrostatic stress in the crystal bulk.
+Mathematically, if the bulk of a crystal experiences a hydrostatic stress S from a combination of thermal expansion, void creation, gas bubble formation, and other processes, than at the surface σ{{< sub "1" >}} = σ{{< sub "2" >}} = S, and σ{{< sub "3" >}} = 0. Therefore the lateral strain in the direction normal to the surface would be twice the Poisson's ratio times the hydrostatic stress in the crystal bulk.
 
 {{< anchor "Reference" >}}{{< /anchor >}}Reference
 --------------------------------------------------

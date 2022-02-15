@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 title: Mechanical Behavior of a Virus
 uid: 2bee5861-4835-4007-19c7-b55fc641dd04
@@ -47,7 +51,7 @@ Wiki Assignments
 
 (b) One of the cool things about a virus is that after the prohead shoots in the genetic material into the host cell (say, a bacterium), the genetic material is replicated until there is so much pressure that the host cell fractures. Assuming this is an E. coli bacterium with an initial crack size equal to the width of the prohead, find the Griffith fracture strength of the E. coli. You'll have to assume some properties to do this, so cite and justify these.
 
-(c) Ivanovska, et al. says the virus capsids are tough, but we said in class that this is the strain energy density up to the point of fracture. Assuming the fracture strength of a virus is 3 times the computed yield strength from PS3, and that the virus deforms in a linear elastic-linear strain hardening plastic mode up to the point of fracture, compute the toughness UT . Discussion on p. 7604 of their paper is also helpful.
+(c) Ivanovska, et al. says the virus capsids are tough, but we said in class that this is the strain energy density up to the point of fracture. Assuming the fracture strength of a virus is 3 times the computed yield strength from PS3, and that the virus deforms in a linear elastic-linear strain hardening plastic mode up to the point of fracture, compute the toughness U{{< sub "T" >}} . Discussion on p. 7604 of their paper is also helpful.
 
 Final Presentation
 ------------------

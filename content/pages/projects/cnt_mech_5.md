@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 title: Carbon Nanotube Mechanics - Problem Set 5
 uid: e97933af-2b2a-00db-39e2-f452c5ee0c46
@@ -22,7 +26,7 @@ First, consider the general elastic energy stored per unit volume, and the simpl
 
 ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/cnt_mech_5_2.jpg)
 
-The modeling values of Belytschko, et al. will be used throughout. For stress purposes, the effective area over which the stress is applied is taken as the circumference of the nanotube multiplied by a value h, a wall thickness, which Belytschko, et al. take to be the interlayer separation of graphite h = 0.34 nm, and which is given as a standard value for this sort of calculation. Morse potential simulations \[[2](#References)\] give a failure strain of 15.7%, or a failure stress of 93.5 GPa. For the other constants, E = 1.16 TPa, A0 = circumference\*h, L0 = r = 0.1315 nm = equilibrium bond spacing. While the first bond fails before the fracture strain is reached, we will take the failure strain to be the strain at which the first bond breaks, and assume the difference is minimal since no plasticity is expected. Next, consider the number of atomic bonds over which this energy is distributed, given in Eq. 1 for a zigzag nanotube. Once a single bond is broken, fracture follows readily at little additional displacement \[[2](#References)\]. The expression simplifies as follows; note that the result does not depend on the nanotube size.
+The modeling values of Belytschko, et al. will be used throughout. For stress purposes, the effective area over which the stress is applied is taken as the circumference of the nanotube multiplied by a value h, a wall thickness, which Belytschko, et al. take to be the interlayer separation of graphite h = 0.34 nm, and which is given as a standard value for this sort of calculation. Morse potential simulations \[[2](#References)\] give a failure strain of 15.7%, or a failure stress of 93.5 GPa. For the other constants, E = 1.16 TPa, A{{< sub "0" >}} = circumference\*h, L{{< sub "0" >}} = r = 0.1315 nm = equilibrium bond spacing. While the first bond fails before the fracture strain is reached, we will take the failure strain to be the strain at which the first bond breaks, and assume the difference is minimal since no plasticity is expected. Next, consider the number of atomic bonds over which this energy is distributed, given in Eq. 1 for a zigzag nanotube. Once a single bond is broken, fracture follows readily at little additional displacement \[[2](#References)\]. The expression simplifies as follows; note that the result does not depend on the nanotube size.
 
 ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/cnt_mech_5_3.jpg)
 

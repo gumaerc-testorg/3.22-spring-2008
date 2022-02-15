@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 title: Carbon Nanotube Mechanics - Problem Set 2
 uid: 9cb582dc-b511-d6b7-cc67-17acb8b18477
@@ -12,7 +16,7 @@ Several different groups have performed experiments to determine elastic propert
 
 Treacy, et al. (1996) \[[2](#References)\] used thermally induced vibration of cantilevered multi-walled nanotubes (MWNTs) in a TEM to determine a value of Young's modulus. Their technique involved placing MWNTs on the edge of TEM grid. With one end of the MWNT fixed on the edge of the TEM grid, the other end of the MWNT was free to move. Focusing the TEM on the free end of the tube was not possible because the tube was vibrating, due to thermal energy, in-and-out of the TEM focal plane. By measuring the width of the blurred tip, relative to the constrained end, the amplitude of the vibration could be inferred. The temperature of the MWNT was varied and a linear relationship was observed between temperature and mean-squared amplitude of the vibration. The Young's Modulus was determined from this information.
 
-The vibration energy, Wn, is the thermal energy in the system equal to **kT**, which obeys the Boltzmann distribution, and un is the horizontal vibration amplitude of the tip.
+The vibration energy, W{{< sub "n" >}}, is the thermal energy in the system equal to **kT**, which obeys the Boltzmann distribution, and u{{< sub "n" >}} is the horizontal vibration amplitude of the tip.
 
 ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/cnt_mech_2_1.jpg)
 

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 title: Effects of Multidimensional Defects on III-V Semiconductor Mechanics
 uid: 6bc9399e-31b7-554b-381b-94e738195a04
@@ -45,11 +49,11 @@ Wiki Assignments
 
 [Problem Set 5]({{< baseurl >}}/pages/projects/iii_v_5)
 
-(b) Eq. 2 of Navamathavan, et al. states an equivalence between fracture surface energy and KIC, the plane strain fracture toughness of the semiconductor films inferred from indentation cracking. From the definitions of KIC and Griffith's fracture criterion, prove whether this equation is true for a brittle material.
+(b) Eq. 2 of Navamathavan, et al. states an equivalence between fracture surface energy and K{{< sub "IC" >}}, the plane strain fracture toughness of the semiconductor films inferred from indentation cracking. From the definitions of K{{< sub "IC" >}} and Griffith's fracture criterion, prove whether this equation is true for a brittle material.
 
-(c) Although they report these data in Table 3, the authors do not appear to put the results in context by comparing the calculated KIC and surface energy with values reported for these (or similar) materials via other experiments. Do this, and discuss whether you feel the characterization of these fracture properties and surface energies of the materials is valid.
+(c) Although they report these data in Table 3, the authors do not appear to put the results in context by comparing the calculated K{{< sub "IC" >}} and surface energy with values reported for these (or similar) materials via other experiments. Do this, and discuss whether you feel the characterization of these fracture properties and surface energies of the materials is valid.
 
-(d) Why do you think the authors observed a film thickness dependence of KIC and fracture surface energy (in Table 3), if these are supposed to be properties of the material?
+(d) Why do you think the authors observed a film thickness dependence of K{{< sub "IC" >}} and fracture surface energy (in Table 3), if these are supposed to be properties of the material?
 
 Final Presentation
 ------------------

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 title: Effects of Radiation on Mechanical Behavior of Crystalline Materials - Problem
   Set 5
@@ -23,7 +27,7 @@ Without seeing the unloading data, we have no way of knowing whether these mater
 
 _(c) The authors \[[1](#Reference)\] give a creep model in Eq. 3. Restate this in terms of a steady state creep rate, and determine the creep mechanism in terms of those we have discussed in class. Which of the models we discussed best captures the trend observed by the authors? Assuming the appropriate energy barrier and diffusivity for your mechanism of choice, would you predict final creep strains comparable to the ones they measure at these stresses (where creep strain = strain rate\*time)?_
 
-Restating the authors' creep model in Eq. 3 as a steady state creep rate requires one to take a time derivative of both sides, so de/dt = 1.15(√(2)/3)\*(dD/dt)/Do
+Restating the authors' creep model in Eq. 3 as a steady state creep rate requires one to take a time derivative of both sides, so de/dt = 1.15(√(2)/3)\*(dD/dt)/D{{< sub "o" >}}
 
 Since the change in diameter would be due to a radial stress, it should be linearly proportional to that hoop stress. This leads to a strain rate linearly proportional to the imposed hoop stress, and therefore it is a diffusional creep mechanism. Finally, these steels are quenched & tempered Ferritic/Martensitic steels, so the grain size is likely to be very small, and Coble Creep is therefore the dominant creep mechanism.
 

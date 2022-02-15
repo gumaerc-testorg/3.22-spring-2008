@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 title: Effects of Multidimensional Defects on III-V Semiconductor Mechanics - Problem
   Set 3
@@ -21,27 +25,27 @@ There is a large discrepancy between the theoretical and experimental critical s
 
 _(d) Given the stated impurity concentrations for the compounds considered by Yonenaga, et al. \[[1](#ref)\], determine the maximum (average) glide distance a dislocation would require to encounter a point defect._
 
-Consider a volume, say V cm3, of the material.
+Consider a volume, say V cm{{< sup "3" >}}, of the material.
 
-Let the impurity concentration be x cm\-3 .
+Let the impurity concentration be x cm{{< sup "\\-3" >}} .
 
 Thus, the number of impurity atoms in the referred volume = V \* x
 
 Assuming that the impurity atoms are homogeneously distributed in the crystal, studying the impurity distribution along a single dimension,
 
-Considered Length = V(1/3)
+Considered Length = V{{< sup "(1/3)" >}}
 
-Number of impurity atoms = (V \* x)(1/3)
+Number of impurity atoms = (V \* x){{< sup "(1/3)" >}}
 
-Average spacing between the impurity atoms along that length = (Considered Length) / (Number of impurity atoms) = x(-1/3) = L cms
+Average spacing between the impurity atoms along that length = (Considered Length) / (Number of impurity atoms) = x{{< sup "(-1/3)" >}} = L cms
 
-For GaAs, with a Si impurity concentration of 1016 cm\-3, L = 4.64 \* 10\-6 cm
+For GaAs, with a Si impurity concentration of 10{{< sup "16" >}} cm{{< sup "\\-3" >}}, L = 4.64 \* 10{{< sup "\\-6" >}} cm
 
-For GaP, with a S impurity concentration of 3.3\*1017 cm\-3, L = 1.44 \* 10\-6 cm
+For GaP, with a S impurity concentration of 3.3\*10{{< sup "17" >}} cm{{< sup "\\-3" >}}, L = 1.44 \* 10{{< sup "\\-6" >}} cm
 
 This is the maximum distance a dislocation needs to glide before encountering an impurity atom. Hence, the average distance a dislocation needs to glide before encountering an impurity atom = L/2.
 
-It should be understood that we have assumed that in gliding through this distance, a dislocation does not encounter another dislocation first, that is, the average spacing between the dislocations is greater than L. However this can be easily seen from the fact that the density of the grown-in dislocations, in both GaAs and GaP, is about 106 cm\-2 . From the definition of dislocation density, this is the number of dislocations per unit area. In other words, when you take a cross section of a plane perpendicular to dislocation length direction, then you see 106 dots uniformly distributed in that plane. So average spacing between two neighboring dislocations would be 1/(106 )0.5 = (10)\-3 cm. Thus, the avg distance between to dislocations is orders of magnitude higher than the avg distance between 2 impurities. In all probability, a dislocation would encounter 2 impurities before it encounters another dislocation.
+It should be understood that we have assumed that in gliding through this distance, a dislocation does not encounter another dislocation first, that is, the average spacing between the dislocations is greater than L. However this can be easily seen from the fact that the density of the grown-in dislocations, in both GaAs and GaP, is about 10{{< sup "6" >}} cm{{< sup "\\-2" >}} . From the definition of dislocation density, this is the number of dislocations per unit area. In other words, when you take a cross section of a plane perpendicular to dislocation length direction, then you see 10{{< sup "6" >}} dots uniformly distributed in that plane. So average spacing between two neighboring dislocations would be 1/(10{{< sup "6" >}} ){{< sup "0.5" >}} = (10){{< sup "\\-3" >}} cm. Thus, the avg distance between to dislocations is orders of magnitude higher than the avg distance between 2 impurities. In all probability, a dislocation would encounter 2 impurities before it encounters another dislocation.
 
 {{< anchor "ref" >}}{{< /anchor >}}Reference
 --------------------------------------------

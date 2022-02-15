@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 title: Role of Water in Accelerated Fracture of Fiber Optic Glass - Problem Set 3
 uid: 7a726529-af2d-9cbc-1e3c-5a8713c68f3c
@@ -8,7 +12,7 @@ uid: 7a726529-af2d-9cbc-1e3c-5a8713c68f3c
 
 _(b) Explain the physical mechanisms and mechanical consequences of aging in such fiber optic silica._
 
-Over time, the mechanical properties of optical fibers are degraded via chemical attacks from the environment. The most prevalent example of this is the aging effect of water on silica fibers. H2O molecules can react with Si-O-Si bonds on the surface of the glass and at the crack tip, thus increasing the crack size with time and creating new surface flaws.
+Over time, the mechanical properties of optical fibers are degraded via chemical attacks from the environment. The most prevalent example of this is the aging effect of water on silica fibers. H{{< sub "2" >}}O molecules can react with Si-O-Si bonds on the surface of the glass and at the crack tip, thus increasing the crack size with time and creating new surface flaws.
 
   
  
