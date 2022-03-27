@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 resourcetype: Document
 title: Water-ageing of silica optical fibers
 uid: a847b0ac-e72c-c9ab-b30f-7e5810ed650d

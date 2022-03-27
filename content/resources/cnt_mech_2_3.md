@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 resourcetype: Image
 title: cnt_mech_2_3
 uid: 6a203ee0-161a-7361-626f-e549b0a1345f

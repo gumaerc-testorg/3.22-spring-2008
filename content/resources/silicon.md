@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 resourcetype: Image
 title: silicon
 uid: dd25679f-3ce8-7eee-4e6e-c59184ad5cea

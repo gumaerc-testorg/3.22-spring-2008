@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 resourcetype: Image
 title: suprlastic3_pic7
 uid: 20dca6fb-d199-2d05-2a6a-24227b8be688

@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 resourcetype: Image
 title: defec_nucle_2_24
 uid: 75bfe5e5-a777-8210-f448-51744cb22549

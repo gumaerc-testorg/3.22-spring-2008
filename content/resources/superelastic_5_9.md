@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 resourcetype: Image
 title: superelastic_5_9
 uid: 3507fcbc-1da3-25a3-f54c-073bdbfb0aa8

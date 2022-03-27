@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 resourcetype: Document
 title: Plasticity and Fracture of Microelectronic Thin Films (SOI -Silicon on Insulator)
 uid: 653f08fc-d4a9-c5fc-6cee-0c38fcfd02c8

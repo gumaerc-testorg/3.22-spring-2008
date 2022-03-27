@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 resourcetype: Document
 title: Mechanical Behavior of a Virus
 uid: 86fb9768-fcdc-122b-e815-f2a68af18740

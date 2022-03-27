@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 resourcetype: Document
 title: Carbon Nanotube Mechanics
 uid: 34bc1d8a-f4bc-c128-5891-4ef9bf7cabbe

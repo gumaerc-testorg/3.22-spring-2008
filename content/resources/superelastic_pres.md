@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 resourcetype: Document
 title: 'Superelastic Materials: Shape Memory Alloys'
 uid: db755c09-033d-74b9-a5b8-fa28ef5bdd5f

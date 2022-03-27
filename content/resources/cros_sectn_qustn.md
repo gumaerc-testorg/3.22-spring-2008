@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 74043641-0243-3abf-a97d-f68615243daf
 resourcetype: Document
 title: Beam Bending Moment
 uid: ddc656ad-3104-22b4-30c0-57a748d0826b

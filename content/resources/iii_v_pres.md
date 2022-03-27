@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 resourcetype: Document
 title: Multidimensional Defects in III-V Semiconductors
 uid: 0ed7a3ad-17ba-6b47-c710-2c219570c1d5
