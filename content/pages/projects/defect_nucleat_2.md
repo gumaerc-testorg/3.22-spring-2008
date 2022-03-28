@@ -39,7 +39,7 @@ Surface 1:
 {{< tdopen >}}
 
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_1.jpg)
+{{< resource "9b3f1b8e-8cac-0b9e-8305-3988ba189c00" >}}
 
 
 {{< tdclose >}}
@@ -55,7 +55,7 @@ Surface 2:
 {{< tdopen >}}
 
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_2_2.jpg)
+{{< resource "56de25e2-e6ff-b686-1bdd-ebe48d82ea62" >}}
 
 
 {{< tdclose >}}
@@ -82,7 +82,7 @@ Switching to common set of axes: _x and y_
 {{< tdopen >}}
 
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_2_3.jpg)
+{{< resource "6ce23bdd-7312-301f-88cc-1b43403535ba" >}}
 
 
 {{< tdclose >}}
@@ -107,7 +107,7 @@ Since these axes are arbitrary, we can pick them intelligently to make our descr
 {{< tdopen >}}
 
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_2_4.jpg)
+{{< resource "a246279f-82ee-059d-0161-732696c7e8d0" >}}
 
 
 {{< tdclose >}}
@@ -134,7 +134,7 @@ We can get relations for A and B using geometrical considerations. This is done 
 {{< tdopen >}}
 
 
-![defec_nuclea_2_5.jpg](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_2_5.jpg)
+{{< resource "5b09b089-b498-2ae8-3efa-add1fbc06525" >}}
 
 
 {{< tdclose >}}
@@ -147,7 +147,7 @@ Eq. 5
 {{< tdopen >}}
 
 
-![defec_nuclea_2_6.jpg](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_2_6.jpg)
+{{< resource "29d54623-5290-905c-977b-96f38a8be4ee" >}}
 
 
 {{< tdclose >}}
@@ -192,7 +192,7 @@ Looking at points S{{< sub "1" >}} and S{{< sub "2" >}}, which are coincident wi
 {{< tdopen >}}
 
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_2_7.jpg)
+{{< resource "56dc5b35-1b73-fa48-61e2-ed65470e4aaa" >}}
 
 
 {{< tdclose >}}
@@ -217,7 +217,7 @@ If we write _δ = δ{{< sub "1" >}} + δ{{< sub "2" >}}_ and use Eq. 6, we get e
 {{< tdopen >}}
 
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_2_8.jpg)
+{{< resource "9dd73245-24ce-0962-26fb-9d61ad68acaa" >}}
 
 
 {{< tdclose >}}
@@ -250,7 +250,7 @@ The circular symmetry of the problem means that the contact area will be circula
 {{< tdopen >}}
 
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nuclea_2_9.jpg)
+{{< resource "754aa97c-527d-2068-d20b-673df0b86584" >}}
 
 
 {{< tdclose >}}
@@ -277,7 +277,7 @@ A pressure distribution which gives displacements satisfying Eq. 9 is given in J
 {{< tdopen >}}
 
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_10.jpg)
+{{< resource "afb77d0e-777f-e5fb-6687-c3e60a48af5a" >}}
 
 
 {{< tdclose >}}
@@ -302,7 +302,7 @@ This pressure distribution gives the displacement:
 {{< tdopen >}}
 
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_11.jpg)
+{{< resource "da75efcf-55ea-ff30-0790-8010b8b18085" >}}
 
 
 {{< tdclose >}}
@@ -327,7 +327,7 @@ Since the pressure acting on the second body is equal to the first, we can write
 {{< tdopen >}}
 
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_12.jpg)
+{{< resource "e6d37148-b5e0-fe64-4ced-536e9f6468bb" >}}
 
 
 {{< tdclose >}}
@@ -352,7 +352,7 @@ Substituting Eq. 11 into Eq. 9 for _u{{< sub "z1" >}}_ and _u{{< sub "z2" >}}_, 
 {{< tdopen >}}
 
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_13.jpg)
+{{< resource "33ff1505-d53f-46e1-3721-c0dd585d8999" >}}
 
 
 {{< tdclose >}}
@@ -377,7 +377,7 @@ Which give us the radius of circle contact, _a_, and the mutual approach of dist
 {{< tdopen >}}
 
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_14.jpg)
+{{< resource "38365527-4745-d5e1-d6f2-98f86a02f549" >}}
 
 
 {{< tdclose >}}
@@ -390,7 +390,7 @@ Eq. 14
 {{< tdopen >}}
 
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_15.jpg)
+{{< resource "7b9bcda5-9634-e47d-d132-a2780839676e" >}}
 
 
 {{< tdclose >}}
@@ -415,7 +415,7 @@ The total load compressing the solids is:
 {{< tdopen >}}
 
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_16.jpg)
+{{< resource "f09df7e1-1c0e-c2cf-5dc8-29447c258b0c" >}}
 
 
 {{< tdclose >}}
@@ -440,7 +440,7 @@ Substituting this into Eq. 14 and Eq. 15, we get:
 {{< tdopen >}}
 
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_17.jpg)
+{{< resource "991ecd84-1c25-ec24-ccf5-821e3e937db2" >}}
 
 
 {{< tdclose >}}
@@ -453,7 +453,7 @@ Eq. 17
 {{< tdopen >}}
 
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_18.jpg)
+{{< resource "a229ccce-d95b-0689-b5ce-b18c7e3bbbb2" >}}
 
 
 {{< tdclose >}}
@@ -478,7 +478,7 @@ We also get an equation for the maximum pressure, _p{{< sub "o" >}}_, if we comp
 {{< tdopen >}}
 
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_19.jpg)
+{{< resource "a4ec4379-1a8d-e6d2-ca2c-8994a1cf426f" >}}
 
 
 {{< tdclose >}}
@@ -505,7 +505,7 @@ For this pressure distribution, the stresses beneath the surface along the z-axi
 {{< tdopen >}}
 
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_20.jpg)
+{{< resource "d9905bf3-3233-d977-fede-7732853e1484" >}}
 
 
 {{< tdclose >}}
@@ -518,7 +518,7 @@ Eq. 20
 {{< tdopen >}}
 
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_21.jpg)
+{{< resource "72ab6a10-0c57-b31a-9a38-36ac3482e081" >}}
 
 
 {{< tdclose >}}
@@ -543,7 +543,7 @@ These are the principal stresses. Therefore, our principal shear stress is:
 {{< tdopen >}}
 
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_22.jpg)
+{{< resource "522df8e4-2db6-02c9-a4fc-1fc48db79289" >}}
 
 
 {{< tdclose >}}
@@ -568,7 +568,7 @@ We now plug in the values for our principal stresses to get an expression for th
 {{< tdopen >}}
 
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_23.jpg)
+{{< resource "ca2ac4db-b6bf-9fdd-7ae9-d28b5421e5a5" >}}
 
 
 {{< tdclose >}}
@@ -593,7 +593,7 @@ This principal shear stress is maximized at a depth of _z_ _\= 0.48 a (for ν = 
 {{< tdopen >}}
 
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/defec_nucle_2_24.jpg)
+{{< resource "75bfe5e5-a777-8210-f448-51744cb22549" >}}
 
 
 {{< tdclose >}}
@@ -623,11 +623,11 @@ This equation tells us that the maximum shear stress occurs below the contact su
   
  
 
-[Plasticity and fracture of microelectronic thin films/lines]({{< baseurl >}}/pages/projects/thinfilms_home)  
-[Effects of multidimensional defects on III-V semiconductor mechanics]({{< baseurl >}}/pages/projects/iii_v_home)  
-[Defect nucleation in crystalline metals]({{< baseurl >}}/pages/projects/defec_nuclea_hom) | Problem Set 2 | [Problem Set 3]({{< baseurl >}}/pages/projects/defect_nucleat_3) | [Problem Set 5]({{< baseurl >}}/pages/projects/defect_nucleat_5)  
-[Role of water in accelerated fracture of fiber optic glass]({{< baseurl >}}/pages/projects/fiber_optics_hom)  
-[Carbon nanotube mechanics]({{< baseurl >}}/pages/projects/cnt_mech_home)  
-[Superelastic and superplastic alloys]({{< baseurl >}}/pages/projects/superelasti_home)  
-[Mechanical behavior of a virus]({{< baseurl >}}/pages/projects/virus_home)  
-[Effects of radiation on mechanical behavior of crystalline materials]({{< baseurl >}}/pages/projects/radiation_home)
+{{< resource_link d2c4d382-2bf8-b124-ef19-84d129bb758e "Plasticity and fracture of microelectronic thin films/lines" >}}  
+{{< resource_link 6bc9399e-31b7-554b-381b-94e738195a04 "Effects of multidimensional defects on III-V semiconductor mechanics" >}}  
+{{< resource_link 4240da7f-1fee-9884-d011-d970176515dd "Defect nucleation in crystalline metals" >}} | Problem Set 2 | {{< resource_link d45cc5b0-b455-db9c-d6d7-0a678a060851 "Problem Set 3" >}} | {{< resource_link 70049e7d-dc51-6444-051a-d2a4d929ff2d "Problem Set 5" >}}  
+{{< resource_link 25015f4f-2da1-f23e-6220-37f2a8145e3f "Role of water in accelerated fracture of fiber optic glass" >}}  
+{{< resource_link 346f07bc-3b08-58de-3e3b-aa79c2ae2dff "Carbon nanotube mechanics" >}}  
+{{< resource_link dcc910e4-d520-5d4c-d99d-97436ce9b436 "Superelastic and superplastic alloys" >}}  
+{{< resource_link 2bee5861-4835-4007-19c7-b55fc641dd04 "Mechanical behavior of a virus" >}}  
+{{< resource_link fec2f6e3-d5f7-3aff-9e49-9fe0cd9ac6f0 "Effects of radiation on mechanical behavior of crystalline materials" >}}

@@ -17,7 +17,7 @@ Group Members
 *   Heechul Park
 *   Jing Shan
 
-![virus_home_1.jpg](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/virus_home_1.jpg)
+{{< resource "52af0d71-c83d-e26a-b788-51956735c49a" >}}
 
 References
 ----------
@@ -31,7 +31,7 @@ Buenemann, M., and P. Lenz. "Mechanical Limits of Viral Capsids." _PNAS_ 104 (20
 Wiki Assignments
 ----------------
 
-[Problem Set 2]({{< baseurl >}}/pages/projects/virus_2)
+{{< resource_link 17fb7a5b-c938-5875-d1ff-a27e6dd55da8 "Problem Set 2" >}}
 
 (b) Zandi, et al. note that virus capsid behavior can be considered as a competition between bending and strain energies at the continuum level. State the magnitude of these two mechanical energy components on a flat plate of thickness equal to the viral capsid wall, of width and length equal to the CCMV capsid facet, and under a state of hydrostatic stress (pressure) plus a superposed normal point load at the center of the capsid facet.
 
@@ -39,7 +39,7 @@ Wiki Assignments
 
 (d) Briefly summarize the implications of this trend in terms of virus behavior.
 
-[Problem Set 3]({{< baseurl >}}/pages/projects/virus_3)
+{{< resource_link 2c6ba9bb-3678-ab89-4fd2-c075358cc9c5 "Problem Set 3" >}}
 
 (b) Considering Ivanovska, et al.'s Fig. 1E rendering of a bacteriophage prohead "shell", compute the stress required to initiate plastic deformation if the prohead were considered to be a short cylindrical shell under uniaxial compression.
 
@@ -47,7 +47,7 @@ Wiki Assignments
 
 (d) These authors also claim that the mechanical testing of such proheads enables prediction of the elastic properties of the bacteriophage, by recourse to nonlinear elastic bucking of shells. Based on the data they present in this paper and known continuum mechanical analysis of shell elasticity, is this claim justified? Timoshenko is an excellent resource on mechanical analysis of shells.
 
-[Problem Set 5]({{< baseurl >}}/pages/projects/virus_5)
+{{< resource_link d5ac3e4c-e98f-a66d-535e-a241535e0491 "Problem Set 5" >}}
 
 (b) One of the cool things about a virus is that after the prohead shoots in the genetic material into the host cell (say, a bacterium), the genetic material is replicated until there is so much pressure that the host cell fractures. Assuming this is an E. coli bacterium with an initial crack size equal to the width of the prohead, find the Griffith fracture strength of the E. coli. You'll have to assume some properties to do this, so cite and justify these.
 
@@ -56,17 +56,17 @@ Wiki Assignments
 Final Presentation
 ------------------
 
-"Mechanical Behavior of a Virus." ([PDF]({{< baseurl >}}/resources/virus_pres))
+"Mechanical Behavior of a Virus." ({{< resource_link 86fb9768-fcdc-122b-e815-f2a68af18740 "PDF" >}})
 
   
   
  
 
-[Plasticity and fracture of microelectronic thin films/lines]({{< baseurl >}}/pages/projects/thinfilms_home)  
-[Effects of multidimensional defects on III-V semiconductor mechanics]({{< baseurl >}}/pages/projects/iii_v_home)  
-[Defect nucleation in crystalline metals]({{< baseurl >}}/pages/projects/defec_nuclea_hom)  
-[Role of water in accelerated fracture of fiber optic glass]({{< baseurl >}}/pages/projects/fiber_optics_hom)  
-[Carbon nanotube mechanics]({{< baseurl >}}/pages/projects/cnt_mech_home)  
-[Superelastic and superplastic alloys]({{< baseurl >}}/pages/projects/superelasti_home)  
-Mechanical behavior of a virus | [Problem Set 2]({{< baseurl >}}/pages/projects/virus_2) | [Problem Set 3]({{< baseurl >}}/pages/projects/virus_3) | [Problem Set 5]({{< baseurl >}}/pages/projects/virus_5)  
-[Effects of radiation on mechanical behavior of crystalline materials]({{< baseurl >}}/pages/projects/radiation_home)
+{{< resource_link d2c4d382-2bf8-b124-ef19-84d129bb758e "Plasticity and fracture of microelectronic thin films/lines" >}}  
+{{< resource_link 6bc9399e-31b7-554b-381b-94e738195a04 "Effects of multidimensional defects on III-V semiconductor mechanics" >}}  
+{{< resource_link 4240da7f-1fee-9884-d011-d970176515dd "Defect nucleation in crystalline metals" >}}  
+{{< resource_link 25015f4f-2da1-f23e-6220-37f2a8145e3f "Role of water in accelerated fracture of fiber optic glass" >}}  
+{{< resource_link 346f07bc-3b08-58de-3e3b-aa79c2ae2dff "Carbon nanotube mechanics" >}}  
+{{< resource_link dcc910e4-d520-5d4c-d99d-97436ce9b436 "Superelastic and superplastic alloys" >}}  
+Mechanical behavior of a virus | {{< resource_link 17fb7a5b-c938-5875-d1ff-a27e6dd55da8 "Problem Set 2" >}} | {{< resource_link 2c6ba9bb-3678-ab89-4fd2-c075358cc9c5 "Problem Set 3" >}} | {{< resource_link d5ac3e4c-e98f-a66d-535e-a241535e0491 "Problem Set 5" >}}  
+{{< resource_link fec2f6e3-d5f7-3aff-9e49-9fe0cd9ac6f0 "Effects of radiation on mechanical behavior of crystalline materials" >}}

@@ -27,7 +27,7 @@ This is considered a type of zero-load aging (do Nascimento, et al. \[[2](#ref)\
   
  
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/fiber_optics_3_1.jpg)
+{{< resource "fdf7ff8b-c96b-d473-700e-47065cae7ee6" >}}
 
   
  
@@ -41,7 +41,7 @@ The fracture stresses in Table 1 \[[2](#ref)\] were obtained using a tensile tes
   
  
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/fiber_optics_3_2.jpg)
+{{< resource "c78f9ebd-3c58-13f5-3d79-5d0f20b40628" >}}
 
 Courtesy of Elsevier, Inc., [Science Direct](http://www.sciencedirect.com/). Used with permission.
 
@@ -53,7 +53,7 @@ The point of using an indenter in this experiment is to be able to make cracks o
   
  
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/fiber_optics_3_3.jpg)
+{{< resource "746c50b2-e9cd-6ccd-3392-4703c0168793" >}}
 
 Courtesy of Elsevier, Inc., [Science Direct](http://www.sciencedirect.com/). Used with permission.
 
@@ -74,7 +74,7 @@ Image removed due to copyright restrictions. Please see slide 28 in Kim, Do Kyun
 
 From the relation σ = F/A and the above expression of A as a function of h, we can deduce the following equation for the indentation depth as a function of the fracture stress and the indentation load:
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/fiber_optics_3_4.jpg)
+{{< resource "29cc4e8c-e86f-4e37-c78d-91778c075ce4" >}}
 
 Assuming an indentation load of 10 mN, we can estimate that the indentation depth for pristine fibers is 315 nm (with σ = 4.1 GPa) and that for 4 weeks aged fibers it is 381 nm (with σ = 2.8 GPa).
 
@@ -83,7 +83,7 @@ _(d) Graphically represent a cross-sectional view of this proposed fracture stre
   
  
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/fiber_optics_3_5.jpg)
+{{< resource "8023956c-380d-dba2-d016-715d434b63fb" >}}
 
 Image made using Photoshop. Finite tip radius as calculated by \[[3](#ref)\].
 
@@ -103,11 +103,11 @@ Image made using Photoshop. Finite tip radius as calculated by \[[3](#ref)\].
   
  
 
-[Plasticity and fracture of microelectronic thin films/lines]({{< baseurl >}}/pages/projects/thinfilms_home)  
-[Effects of multidimensional defects on III-V semiconductor mechanics]({{< baseurl >}}/pages/projects/iii_v_home)  
-[Defect nucleation in crystalline metals]({{< baseurl >}}/pages/projects/defec_nuclea_hom)  
-[Role of water in accelerated fracture of fiber optic glass]({{< baseurl >}}/pages/projects/fiber_optics_hom) | [Problem Set 2]({{< baseurl >}}/pages/projects/fiber_optics_2) | Problem Set 3 | [Problem Set 5]({{< baseurl >}}/pages/projects/fiber_optics_5)  
-[Carbon nanotube mechanics]({{< baseurl >}}/pages/projects/cnt_mech_home)  
-[Superelastic and superplastic alloys]({{< baseurl >}}/pages/projects/superelasti_home)  
-[Mechanical behavior of a virus]({{< baseurl >}}/pages/projects/virus_home)  
-[Effects of radiation on mechanical behavior of crystalline materials]({{< baseurl >}}/pages/projects/radiation_home)
+{{< resource_link d2c4d382-2bf8-b124-ef19-84d129bb758e "Plasticity and fracture of microelectronic thin films/lines" >}}  
+{{< resource_link 6bc9399e-31b7-554b-381b-94e738195a04 "Effects of multidimensional defects on III-V semiconductor mechanics" >}}  
+{{< resource_link 4240da7f-1fee-9884-d011-d970176515dd "Defect nucleation in crystalline metals" >}}  
+{{< resource_link 25015f4f-2da1-f23e-6220-37f2a8145e3f "Role of water in accelerated fracture of fiber optic glass" >}} | {{< resource_link 3a387a6b-39e2-cd9c-b822-0a782266c9fc "Problem Set 2" >}} | Problem Set 3 | {{< resource_link cfc8dbfe-c5ea-42c0-1ec5-186c1827e0c8 "Problem Set 5" >}}  
+{{< resource_link 346f07bc-3b08-58de-3e3b-aa79c2ae2dff "Carbon nanotube mechanics" >}}  
+{{< resource_link dcc910e4-d520-5d4c-d99d-97436ce9b436 "Superelastic and superplastic alloys" >}}  
+{{< resource_link 2bee5861-4835-4007-19c7-b55fc641dd04 "Mechanical behavior of a virus" >}}  
+{{< resource_link fec2f6e3-d5f7-3aff-9e49-9fe0cd9ac6f0 "Effects of radiation on mechanical behavior of crystalline materials" >}}

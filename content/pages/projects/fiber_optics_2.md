@@ -14,7 +14,7 @@ _a) What are the (short-range ordered) structures and elastic moduli of E-glass 
 
 Silica (SiO{{< sub "2" >}}) glass is amorphous. This means that there is no long-range order, but there is a short-range order. This local ordering consists of a tetrahedral arrangement of O and Si atoms (see Fig. \[[1](#ref)\]).
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/fiber_optics_2_1.jpg)
+{{< resource "1230b2dc-8d18-f801-6c7b-27fccf3e639d" >}}
 
 E glass still consists for >50% of SiO{{< sub "2" >}}. SiO{{< sub "2" >}} and B{{< sub "2" >}}O{{< sub "3" >}} are the predominant network formers. BaO acts as a network modifier and Al{{< sub "2" >}}O{{< sub "3" >}} is a glass network intermediate, which together with BaO has the capacity to form a network \[[2](#ref)\]. Just as for silica, there is no long-range order in E glass, which makes it an amorphous material. The specific short-range order in E glass will depend on its constituent atoms.
 
@@ -36,23 +36,23 @@ According to Chapter 6 in Courtney \[[9](#ref)\], the elastic modulus E{{< sub "
 
 In the first case, each layer in the stack experiences an equal stress, and the elastic modulus E{{< sub "c" >}} is calculated to be (Courtney 6.8):
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/fiber_optics_2_2.jpg)
+{{< resource "a18a84ea-1a95-eadc-19e7-19a0d1362dcc" >}}
 
 with index g for the glass matrix and p for the dust particles. The last step is a Taylor expansion for the case that V{{< sub "p" >}} \<\< 1.
 
 In the second case, each layer in the stack experiences an equal strain, and the elastic modulus is found to be (Courtney 6.12):
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/fiber_optics_2_3.jpg)
+{{< resource "d035dfd9-87fc-5c7b-3db1-9c760ef8715c" >}}
 
 When Sakaguchi introduces dust particles with E{{< sub "p" >}} > E{{< sub "g" >}}, such as alumina (E\[Al{{< sub "2" >}}O{{< sub "3" >}}\]= 300 Gpa) or carbon (E\[SiC\]= 420 GPa), both of the cases predict an increase of the Young's modulus of the glass fibers. The real value of E{{< sub "c" >}}, which lies in between the two extrema, will thus also increase upon introduction of dust particles. This real value is sometimes described by an empirical relationship (Courtney 6.13):
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/fiber_optics_2_4.jpg)
+{{< resource "ce4407d0-c3e1-47fa-de4b-d2b57ea09c8e" >}}
 
 where K{{< sub "c" >}} \< 1 is empirically determined.
 
 To find a numerical value for the elastic modulus E{{< sub "c" >}}, we first need to estimate the volume fraction V{{< sub "p" >}}. In the most simple approximation, we can imagine the dust particles of diameter d to make up a mono-atomic shell of thickness d around the fiber of radius r. This corresponds in fact to the equal strain case described above. The volume fraction V{{< sub "p" >}} is then given by the ratio of the cross-sectional area of the shell to the area of the fiber:
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/fiber_optics_2_5.jpg)
+{{< resource "98fdf7f1-8cfe-e689-79dc-08f872238a3d" >}}
 
 where the last approximation is valid for d \<\< r. For the diameter of the silica fiber, we can use the value of 2\*r = 125 μm mentioned in the article by do Nascimento \[[10](#ref)\].
 
@@ -89,11 +89,11 @@ We can elaborate on the validity of our assumption that the dust particles form 
 
 \[10\] Mauro do Nascimento, Eduardo, and Carlos Mauricio Lepienski. "Mechanical Properties of Optical Glass Fibers Damaged by Nanoindentation and Water Ageing." _Journal of Non-Crystalline Solids_ 352 (September 15, 2006): 3556-3560.
 
-[Plasticity and fracture of microelectronic thin films/lines]({{< baseurl >}}/pages/projects/thinfilms_home)  
-[Effects of multidimensional defects on III-V semiconductor mechanics]({{< baseurl >}}/pages/projects/iii_v_home)  
-[Defect nucleation in crystalline metals]({{< baseurl >}}/pages/projects/defec_nuclea_hom)  
-[Role of water in accelerated fracture of fiber optic glass]({{< baseurl >}}/pages/projects/fiber_optics_hom) | Problem Set 2 | [Problem Set 3]({{< baseurl >}}/pages/projects/fiber_optics_3) | [Problem Set 5]({{< baseurl >}}/pages/projects/fiber_optics_5)  
-[Carbon nanotube mechanics]({{< baseurl >}}/pages/projects/cnt_mech_home)  
-[Superelastic and superplastic alloys]({{< baseurl >}}/pages/projects/superelasti_home)  
-[Mechanical behavior of a virus]({{< baseurl >}}/pages/projects/virus_home)  
-[Effects of radiation on mechanical behavior of crystalline materials]({{< baseurl >}}/pages/projects/radiation_home)
+{{< resource_link d2c4d382-2bf8-b124-ef19-84d129bb758e "Plasticity and fracture of microelectronic thin films/lines" >}}  
+{{< resource_link 6bc9399e-31b7-554b-381b-94e738195a04 "Effects of multidimensional defects on III-V semiconductor mechanics" >}}  
+{{< resource_link 4240da7f-1fee-9884-d011-d970176515dd "Defect nucleation in crystalline metals" >}}  
+{{< resource_link 25015f4f-2da1-f23e-6220-37f2a8145e3f "Role of water in accelerated fracture of fiber optic glass" >}} | Problem Set 2 | {{< resource_link 7a726529-af2d-9cbc-1e3c-5a8713c68f3c "Problem Set 3" >}} | {{< resource_link cfc8dbfe-c5ea-42c0-1ec5-186c1827e0c8 "Problem Set 5" >}}  
+{{< resource_link 346f07bc-3b08-58de-3e3b-aa79c2ae2dff "Carbon nanotube mechanics" >}}  
+{{< resource_link dcc910e4-d520-5d4c-d99d-97436ce9b436 "Superelastic and superplastic alloys" >}}  
+{{< resource_link 2bee5861-4835-4007-19c7-b55fc641dd04 "Mechanical behavior of a virus" >}}  
+{{< resource_link fec2f6e3-d5f7-3aff-9e49-9fe0cd9ac6f0 "Effects of radiation on mechanical behavior of crystalline materials" >}}

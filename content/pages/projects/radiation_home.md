@@ -19,7 +19,7 @@ Group Members
   
  
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/radiation_home_1.jpg)
+{{< resource "16c69936-28fb-5917-2e09-ad7c639017b3" >}}
 
   
  
@@ -36,7 +36,7 @@ Garner, F. A., and D. S. Gelles. "Irradiation Creep Mechanisms: An Experimental 
 Wiki Assignments
 ----------------
 
-[Problem Set 2]({{< baseurl >}}/pages/projects/radiation_2)
+{{< resource_link 0919f251-73fa-3bb8-24b6-200f1e8add7a "Problem Set 2" >}}
 
 (a) Jitsukawa, et al. summarizes steel's mechanical properties by starting with tensile yield and fracture strength. Elastic behavior is not mentioned. Explain why there is no extensive database on the variation in elastic properties of steel as a function of composition, processing, or radiation exposure.
 
@@ -44,7 +44,7 @@ Wiki Assignments
 
 (c) Based on Matthews & Finnis' speculation about where vacancy clusters and damage cascades occur within the crystal structure (Fig. 1), graphically represent the location and orientation of such vacancy clusters in steel. Here, you can assume a simpler alloy than the one discussed in Jitsukawa, Fe containing a (thermodynamic) equilibrium concentration of carbon and a supersaturation of vacancies.
 
-[Problem Set 3]({{< baseurl >}}/pages/projects/radiation_3)
+{{< resource_link 065bdafc-ff95-dcc5-4d56-8854da744fe3 "Problem Set 3" >}}
 
 (b) Garner, et al. claim that vacancies such as those induced by radiation damage produce an isotropic strain field. Prove that this is so, and explain whether this strain contribution is expected to contribute to plastic deformation via dislocation glide.
 
@@ -52,7 +52,7 @@ Wiki Assignments
 
 (d) Others have noted the superposition of lateral stress that contributes to plastic yielding at the surface. Explain the source and expected contribution of lateral stress for this metal.
 
-[Problem Set 5]({{< baseurl >}}/pages/projects/radiation_5)
+{{< resource_link 1ffd3c1d-bf94-ae3e-1e22-3ec1fc1c3ba9 "Problem Set 5" >}}
 
 (b) Aldo's Fig. 3 shows relation between effective creep stress and creep strain. Which of the materials/conditions considered exhibit a linear viscoelastic type creep response under this temperature and radiation dosage?
 
@@ -65,17 +65,17 @@ What do they mean by "Burgers vector anisotropy"? And did they yet report any fo
 Final Presentation
 ------------------
 
-"Effects of Radiation on Mechanical Behavior of Crystalline Materials." ([PDF]({{< baseurl >}}/resources/radiation_pres))
+"Effects of Radiation on Mechanical Behavior of Crystalline Materials." ({{< resource_link 24bbeb90-af8b-2d7f-681c-9707616c4802 "PDF" >}})
 
   
  
 
-[Plasticity and fracture of microelectronic thin films/lines]({{< baseurl >}}/pages/projects/thinfilms_home)  
-[Effects of multidimensional defects on III-V semiconductor mechanics]({{< baseurl >}}/pages/projects/iii_v_home)  
-[Defect nucleation in crystalline metals]({{< baseurl >}}/pages/projects/defec_nuclea_hom)  
-[Role of water in accelerated fracture of fiber optic glass]({{< baseurl >}}/pages/projects/fiber_optics_hom)  
-[Carbon nanotube mechanics]({{< baseurl >}}/pages/projects/cnt_mech_home)  
-[Superelastic and superplastic alloys]({{< baseurl >}}/pages/projects/superelasti_home)  
-[Mechanical behavior of a virus]({{< baseurl >}}/pages/projects/virus_home)  
-Effects of radiation on mechanical behavior of crystalline materials | [Problem Set 2]({{< baseurl >}}/pages/projects/radiation_2) | [Problem Set 3]({{< baseurl >}}/pages/projects/radiation_3) | [Problem Set 5]({{< baseurl >}}/pages/projects/radiation_5)[  
+{{< resource_link d2c4d382-2bf8-b124-ef19-84d129bb758e "Plasticity and fracture of microelectronic thin films/lines" >}}  
+{{< resource_link 6bc9399e-31b7-554b-381b-94e738195a04 "Effects of multidimensional defects on III-V semiconductor mechanics" >}}  
+{{< resource_link 4240da7f-1fee-9884-d011-d970176515dd "Defect nucleation in crystalline metals" >}}  
+{{< resource_link 25015f4f-2da1-f23e-6220-37f2a8145e3f "Role of water in accelerated fracture of fiber optic glass" >}}  
+{{< resource_link 346f07bc-3b08-58de-3e3b-aa79c2ae2dff "Carbon nanotube mechanics" >}}  
+{{< resource_link dcc910e4-d520-5d4c-d99d-97436ce9b436 "Superelastic and superplastic alloys" >}}  
+{{< resource_link 2bee5861-4835-4007-19c7-b55fc641dd04 "Mechanical behavior of a virus" >}}  
+Effects of radiation on mechanical behavior of crystalline materials | {{< resource_link 0919f251-73fa-3bb8-24b6-200f1e8add7a "Problem Set 2" >}} | {{< resource_link 065bdafc-ff95-dcc5-4d56-8854da744fe3 "Problem Set 3" >}} | {{< resource_link 1ffd3c1d-bf94-ae3e-1e22-3ec1fc1c3ba9 "Problem Set 5" >}}[  
 ]({{< baseurl >}}/pages/projects/thinfilms_home)

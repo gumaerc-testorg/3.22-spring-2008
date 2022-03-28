@@ -38,13 +38,13 @@ Ju, G. T., and S. Kyriakides. "Bifurcation and Localization Instabilities in Cyl
 Wiki Assignments
 ----------------
 
-[Problem Set 2]({{< baseurl >}}/pages/projects/cnt_mech_2)
+{{< resource_link 9cb582dc-b511-d6b7-cc67-17acb8b18477 "Problem Set 2" >}}
 
 (a) Pantano, et al. discuss several previously reported estimates of CNT elastic properties. Explain how the cited works in this review inferred the elastic properties of these CNTs from resonance of the structure (how did they do it, and how does resonance relate quantitatively to E?).
 
 (b) On p. 795, the authors state that the CNT can be described with three elastic constants, but they also state that the wall material is isotropic. Isotropic materials require only 2 independent elastic constants, so demonstrate in terms of material and crystal symmetry why three are employed.
 
-[Problem Set 3]({{< baseurl >}}/pages/projects/cnt_mech_3)
+{{< resource_link 9b78759d-a121-d57c-4c1b-bbb77f6f0a17 "Problem Set 3" >}}
 
 (b) Pantano, et al. extensively model the elastic buckling instabilities of CNTs, and essentially find that computationally expensive MD and FEM simulations predict the same critical loads as Timoshenko's continuum elasticity theory for shells. In Pantano's model of cantilevered CNT bending, they completely neglect the possibility of plastic deformation at the fixed end of the CNT cantilever. However, if the stresses get high enough in the CNT "beam", plastic deformation will result. State the yield criteria / surface that you think best captures the onset of plastic deformation in a CNT (single or multiwalled; your choice), graph it as a yield surface under biaxial loading.
 
@@ -52,7 +52,7 @@ Wiki Assignments
 
 (d) Poncharal, et al. report the resonance of CNTs and demonstrate a frequency- and diameter-dependent response. Although this is structural resonance, it is similar in origin to the linear viscoelastic responses used to describe polymers. From this and other available sources, justify whether the CNT dynamics are best captured by a Maxwell, Kelvin-Voigt, or SLS model. Express the resonance of the CNTs in terms of the elements of the phenomenological spring/dashpot model you have chosen, keeping in mind that the elastic properties of the CNTs are well-known.
 
-[Problem Set 5]({{< baseurl >}}/pages/projects/cnt_mech_5)
+{{< resource_link e97933af-2b2a-00db-39e2-f452c5ee0c46 "Problem Set 5" >}}
 
 (b) The papers you have chosen discuss the elastic properties of CNTs. Of course, the applications people are excited about are related to the high tensile strength of these organic fibers. We know they'll easily buckle in tension, and it's hard to think of apps that would benefit from that. Read the 2 papers cited by Pantano, et al. that discuss nanotube fracture to review this concept.
 
@@ -61,17 +61,17 @@ Then compute the number of carbon bonds that must be broken to achieve tensile f
 Final Presentation
 ------------------
 
-"Carbon Nanotube Mechanics." ([PDF]({{< baseurl >}}/resources/cnt_mech_pres))
+"Carbon Nanotube Mechanics." ({{< resource_link 34bc1d8a-f4bc-c128-5891-4ef9bf7cabbe "PDF" >}})
 
   
   
  
 
-[Plasticity and fracture of microelectronic thin films/lines]({{< baseurl >}}/pages/projects/thinfilms_home)  
-[Effects of multidimensional defects on III-V semiconductor mechanics]({{< baseurl >}}/pages/projects/iii_v_home)  
-[Defect nucleation in crystalline metals]({{< baseurl >}}/pages/projects/defec_nuclea_hom)  
-[Role of water in accelerated fracture of fiber optic glass]({{< baseurl >}}/pages/projects/fiber_optics_hom)  
-Carbon nanotube mechanics | [Problem Set 2]({{< baseurl >}}/pages/projects/cnt_mech_2) | [Problem Set 3]({{< baseurl >}}/pages/projects/cnt_mech_3) | [Problem Set 5]({{< baseurl >}}/pages/projects/cnt_mech_5)  
-[Superelastic and superplastic alloys]({{< baseurl >}}/pages/projects/superelasti_home)  
-[Mechanical behavior of a virus]({{< baseurl >}}/pages/projects/virus_home)  
-[Effects of radiation on mechanical behavior of crystalline materials]({{< baseurl >}}/pages/projects/radiation_home)
+{{< resource_link d2c4d382-2bf8-b124-ef19-84d129bb758e "Plasticity and fracture of microelectronic thin films/lines" >}}  
+{{< resource_link 6bc9399e-31b7-554b-381b-94e738195a04 "Effects of multidimensional defects on III-V semiconductor mechanics" >}}  
+{{< resource_link 4240da7f-1fee-9884-d011-d970176515dd "Defect nucleation in crystalline metals" >}}  
+{{< resource_link 25015f4f-2da1-f23e-6220-37f2a8145e3f "Role of water in accelerated fracture of fiber optic glass" >}}  
+Carbon nanotube mechanics | {{< resource_link 9cb582dc-b511-d6b7-cc67-17acb8b18477 "Problem Set 2" >}} | {{< resource_link 9b78759d-a121-d57c-4c1b-bbb77f6f0a17 "Problem Set 3" >}} | {{< resource_link e97933af-2b2a-00db-39e2-f452c5ee0c46 "Problem Set 5" >}}  
+{{< resource_link dcc910e4-d520-5d4c-d99d-97436ce9b436 "Superelastic and superplastic alloys" >}}  
+{{< resource_link 2bee5861-4835-4007-19c7-b55fc641dd04 "Mechanical behavior of a virus" >}}  
+{{< resource_link fec2f6e3-d5f7-3aff-9e49-9fe0cd9ac6f0 "Effects of radiation on mechanical behavior of crystalline materials" >}}
