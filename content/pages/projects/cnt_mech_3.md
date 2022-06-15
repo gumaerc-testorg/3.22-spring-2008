@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -117,11 +118,6 @@ Where d-bar is given by:
   
  
 
-[Plasticity and fracture of microelectronic thin films/lines  
-]({{< baseurl >}}/pages/projects/thinfilms_home)[Effects of multidimensional defects on III-V semiconductor mechanics  
-]({{< baseurl >}}/pages/projects/iii_v_home)[Defect nucleation in crystalline metals  
-]({{< baseurl >}}/pages/projects/defec_nuclea_hom)[Role of water in accelerated fracture of fiber optic glass  
-]({{< baseurl >}}/pages/projects/fiber_optics_hom){{< resource_link 346f07bc-3b08-58de-3e3b-aa79c2ae2dff "Carbon nanotube mechanics" >}} | {{< resource_link 9cb582dc-b511-d6b7-cc67-17acb8b18477 "Problem Set 2" >}} | Problem Set 3 | [Problem Set 5  
-]({{< baseurl >}}/pages/projects/cnt_mech_5){{< resource_link dcc910e4-d520-5d4c-d99d-97436ce9b436 "Superelastic and superplastic alloys" >}}  
-{{< resource_link 2bee5861-4835-4007-19c7-b55fc641dd04 "Mechanical behavior of a virus" >}}  
-{{< resource_link fec2f6e3-d5f7-3aff-9e49-9fe0cd9ac6f0 "Effects of radiation on mechanical behavior of crystalline materials" >}}
+{{% resource_link "d2c4d382-2bf8-b124-ef19-84d129bb758e" "Plasticity and fracture of microelectronic thin films/lines   " %}}{{% resource_link "6bc9399e-31b7-554b-381b-94e738195a04" "Effects of multidimensional defects on III-V semiconductor mechanics   " %}}{{% resource_link "4240da7f-1fee-9884-d011-d970176515dd" "Defect nucleation in crystalline metals   " %}}{{% resource_link "25015f4f-2da1-f23e-6220-37f2a8145e3f" "Role of water in accelerated fracture of fiber optic glass   " %}}{{% resource_link 346f07bc-3b08-58de-3e3b-aa79c2ae2dff "Carbon nanotube mechanics" %}} | {{% resource_link 9cb582dc-b511-d6b7-cc67-17acb8b18477 "Problem Set 2" %}} | Problem Set 3 | {{% resource_link "e97933af-2b2a-00db-39e2-f452c5ee0c46" "Problem Set 5   " %}}{{% resource_link dcc910e4-d520-5d4c-d99d-97436ce9b436 "Superelastic and superplastic alloys" %}}  
+{{% resource_link 2bee5861-4835-4007-19c7-b55fc641dd04 "Mechanical behavior of a virus" %}}  
+{{% resource_link fec2f6e3-d5f7-3aff-9e49-9fe0cd9ac6f0 "Effects of radiation on mechanical behavior of crystalline materials" %}}

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image accompanying a course assignment.
-file: /media/courses/3-22-mechanical-behavior-of-materials-spring-2008/ef5461ef1268a175866233532ce828a5_defec_nucle_3_13.jpg
+file: /courses/3-22-mechanical-behavior-of-materials-spring-2008/ef5461ef1268a175866233532ce828a5_defec_nucle_3_13.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -17,3 +17,5 @@ resourcetype: Image
 title: defec_nucle_3_13
 uid: ef5461ef-1268-a175-8662-33532ce828a5
 ---
+Image accompanying a course assignment.
+

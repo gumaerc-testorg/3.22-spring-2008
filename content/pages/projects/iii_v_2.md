@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -63,7 +64,7 @@ Image removed due to copyright restrictions. Please see Fig. 3a in \[[3](#ref)\]
   
  
 
-To resist bending, we want to choose the orientation with the highest Young's elastic modulus. This is the \<111>, as can be seen in Fig. 3a and in our calculations, attached. ({{< resource_link b4aa4055-0246-fd1a-1fa9-5a66a41a1c36 "PDF" >}})
+To resist bending, we want to choose the orientation with the highest Young's elastic modulus. This is the \<111>, as can be seen in Fig. 3a and in our calculations, attached. ({{% resource_link b4aa4055-0246-fd1a-1fa9-5a66a41a1c36 "PDF" %}})
 
 However, it is important to understand the exact orientation of this the (111) planes with respect to film-substrate interface, which would minimize bending. To do so let us first look at a bi-material strip as shown in the figure below. The two materials can be characterized by different elastic moduli, and thus will exhibit different strains under the same state of stress. This leads to the bending of the strip to incorporate this difference, as understood more clearly by the figure.
 
@@ -92,11 +93,11 @@ For a GaAs film on a substrate (of a different material, and thus different elas
   
  
 
-{{< resource_link d2c4d382-2bf8-b124-ef19-84d129bb758e "Plasticity and fracture of microelectronic thin films/lines" >}}  
-{{< resource_link 6bc9399e-31b7-554b-381b-94e738195a04 "Effects of multidimensional defects on III-V semiconductor mechanics" >}} | Problem Set 2 | {{< resource_link 8233726e-d8fe-061c-b415-6a97ebaf13a4 "Problem Set 3" >}} | {{< resource_link 3e7072d8-b2a1-1647-db86-2d7ac5cd83fa "Problem Set 5" >}}  
-{{< resource_link 4240da7f-1fee-9884-d011-d970176515dd "Defect nucleation in crystalline metals" >}}  
-{{< resource_link 25015f4f-2da1-f23e-6220-37f2a8145e3f "Role of water in accelerated fracture of fiber optic glass" >}}  
-{{< resource_link 346f07bc-3b08-58de-3e3b-aa79c2ae2dff "Carbon nanotube mechanics" >}}  
-{{< resource_link dcc910e4-d520-5d4c-d99d-97436ce9b436 "Superelastic and superplastic alloys" >}}  
-{{< resource_link 2bee5861-4835-4007-19c7-b55fc641dd04 "Mechanical behavior of a virus" >}}  
-{{< resource_link fec2f6e3-d5f7-3aff-9e49-9fe0cd9ac6f0 "Effects of radiation on mechanical behavior of crystalline materials" >}}
+{{% resource_link d2c4d382-2bf8-b124-ef19-84d129bb758e "Plasticity and fracture of microelectronic thin films/lines" %}}  
+{{% resource_link 6bc9399e-31b7-554b-381b-94e738195a04 "Effects of multidimensional defects on III-V semiconductor mechanics" %}} | Problem Set 2 | {{% resource_link 8233726e-d8fe-061c-b415-6a97ebaf13a4 "Problem Set 3" %}} | {{% resource_link 3e7072d8-b2a1-1647-db86-2d7ac5cd83fa "Problem Set 5" %}}  
+{{% resource_link 4240da7f-1fee-9884-d011-d970176515dd "Defect nucleation in crystalline metals" %}}  
+{{% resource_link 25015f4f-2da1-f23e-6220-37f2a8145e3f "Role of water in accelerated fracture of fiber optic glass" %}}  
+{{% resource_link 346f07bc-3b08-58de-3e3b-aa79c2ae2dff "Carbon nanotube mechanics" %}}  
+{{% resource_link dcc910e4-d520-5d4c-d99d-97436ce9b436 "Superelastic and superplastic alloys" %}}  
+{{% resource_link 2bee5861-4835-4007-19c7-b55fc641dd04 "Mechanical behavior of a virus" %}}  
+{{% resource_link fec2f6e3-d5f7-3aff-9e49-9fe0cd9ac6f0 "Effects of radiation on mechanical behavior of crystalline materials" %}}

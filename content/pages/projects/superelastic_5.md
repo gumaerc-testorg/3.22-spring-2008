@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -163,7 +164,7 @@ MATERIAL
 TEMPERATURE (°C)
 {{< thclose >}}
 {{< thopen >}}
-STRAIN RATE (s{{< sup "\\-1" >}})
+STRAIN RATE (s{{< sup "\-1" >}})
 {{< thclose >}}
 {{< thopen >}}
 Stress (MPa)
@@ -172,7 +173,7 @@ Stress (MPa)
 _n_
 {{< thclose >}}
 {{< thopen >}}
-_Q_ (kJ mol{{< sup "\\-1" >}})
+_Q_ (kJ mol{{< sup "\-1" >}})
 {{< thclose >}}
 {{< thopen >}}
 GRAIN SIZE (μm)
@@ -189,7 +190,7 @@ Mukherjee \[[1](#References)\]
 700-1000
 {{< tdclose >}}
 {{< tdopen >}}
-6 X 10{{< sup "\\-5" >}}—6 X 10{{< sup "\\-3" >}}
+6 X 10{{< sup "\-5" >}}—6 X 10{{< sup "\-3" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 6-178
@@ -213,7 +214,7 @@ Kato, et al. \[[2](#References)\]
 628-888
 {{< tdclose >}}
 {{< tdopen >}}
-1 X 10{{< sup "\\-5" >}}—2 X 10{{< sup "\\-2" >}}
+1 X 10{{< sup "\-5" >}}—2 X 10{{< sup "\-2" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 11-81
@@ -241,7 +242,7 @@ Eggeler, et al. \[[3](#References)\]
 470-530
 {{< tdclose >}}
 {{< tdopen >}}
-2 X 10{{< sup "\\-9" >}}—8 X 10{{< sup "\\-6" >}}
+2 X 10{{< sup "\-9" >}}—8 X 10{{< sup "\-6" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 90-150
@@ -265,7 +266,7 @@ Kobus, et al. \[[4](#References)\]
 500-560
 {{< tdclose >}}
 {{< tdopen >}}
-2 X 10{{< sup "\\-7" >}}—3 X 10{{< sup "\\-5" >}}
+2 X 10{{< sup "\-7" >}}—3 X 10{{< sup "\-5" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 120-180
@@ -289,7 +290,7 @@ Lexcellent, et al. \[[5](#References)\]
 597-897
 {{< tdclose >}}
 {{< tdopen >}}
-3 X 10{{< sup "\\-3" >}}—4 X 10{{< sup "\\-2" >}}
+3 X 10{{< sup "\-3" >}}—4 X 10{{< sup "\-2" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 10-35
@@ -313,7 +314,7 @@ Oppenheimer, et al. \[[6](#References)\]
 950-1100
 {{< tdclose >}}
 {{< tdopen >}}
-1 X 10{{< sup "\\-6" >}}—1 X 10{{< sup "\\-5" >}}
+1 X 10{{< sup "\-6" >}}—1 X 10{{< sup "\-5" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 4.7-11
@@ -551,11 +552,11 @@ However, the fracture mechanism of a superelastic alloy is not as simple to intu
 
 \[13\] Taillard, K., et al. "Phase Transformation Yield Surface of Anisotropic Shape Memory Alloys." _Materials Science and Engineering A_ 438-440 (2006): 436-440.
 
-{{< resource_link d2c4d382-2bf8-b124-ef19-84d129bb758e "Plasticity and fracture of microelectronic thin films/lines" >}}  
-{{< resource_link 6bc9399e-31b7-554b-381b-94e738195a04 "Effects of multidimensional defects on III-V semiconductor mechanics" >}}  
-{{< resource_link 4240da7f-1fee-9884-d011-d970176515dd "Defect nucleation in crystalline metals" >}}  
-{{< resource_link 25015f4f-2da1-f23e-6220-37f2a8145e3f "Role of water in accelerated fracture of fiber optic glass" >}}  
-{{< resource_link 346f07bc-3b08-58de-3e3b-aa79c2ae2dff "Carbon nanotube mechanics" >}}  
-{{< resource_link dcc910e4-d520-5d4c-d99d-97436ce9b436 "Superelastic and superplastic alloys" >}} | {{< resource_link 149fee27-7560-a343-acc4-9df953361eaf "Problem Set 2" >}} | {{< resource_link 930bd449-6d42-b095-aae2-1811720720e4 "Problem Set 3" >}} | Problem Set 5  
-{{< resource_link 2bee5861-4835-4007-19c7-b55fc641dd04 "Mechanical behavior of a virus" >}}  
-{{< resource_link fec2f6e3-d5f7-3aff-9e49-9fe0cd9ac6f0 "Effects of radiation on mechanical behavior of crystalline materials" >}}
+{{% resource_link d2c4d382-2bf8-b124-ef19-84d129bb758e "Plasticity and fracture of microelectronic thin films/lines" %}}  
+{{% resource_link 6bc9399e-31b7-554b-381b-94e738195a04 "Effects of multidimensional defects on III-V semiconductor mechanics" %}}  
+{{% resource_link 4240da7f-1fee-9884-d011-d970176515dd "Defect nucleation in crystalline metals" %}}  
+{{% resource_link 25015f4f-2da1-f23e-6220-37f2a8145e3f "Role of water in accelerated fracture of fiber optic glass" %}}  
+{{% resource_link 346f07bc-3b08-58de-3e3b-aa79c2ae2dff "Carbon nanotube mechanics" %}}  
+{{% resource_link dcc910e4-d520-5d4c-d99d-97436ce9b436 "Superelastic and superplastic alloys" %}} | {{% resource_link 149fee27-7560-a343-acc4-9df953361eaf "Problem Set 2" %}} | {{% resource_link 930bd449-6d42-b095-aae2-1811720720e4 "Problem Set 3" %}} | Problem Set 5  
+{{% resource_link 2bee5861-4835-4007-19c7-b55fc641dd04 "Mechanical behavior of a virus" %}}  
+{{% resource_link fec2f6e3-d5f7-3aff-9e49-9fe0cd9ac6f0 "Effects of radiation on mechanical behavior of crystalline materials" %}}
