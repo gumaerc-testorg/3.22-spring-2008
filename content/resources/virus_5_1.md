@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: virus_5_1
 uid: d4f962c4-e364-f1ae-fd83-6eb37a6ca21b
 ---
 Image accompanying a course assignment.
-

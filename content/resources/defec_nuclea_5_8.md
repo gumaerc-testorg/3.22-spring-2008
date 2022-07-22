@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: defec_nuclea_5_8
 uid: ead25d63-9799-7b65-eb2b-763c3dc77bca
 ---
 Image accompanying a course assignment.
-

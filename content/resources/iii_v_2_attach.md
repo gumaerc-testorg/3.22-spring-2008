@@ -6,6 +6,7 @@ file: /courses/3-22-mechanical-behavior-of-materials-spring-2008/b4aa40550246fd1
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: III-V Calculations
 uid: b4aa4055-0246-fd1a-1fa9-5a66a41a1c36
 ---
 Supplement to a problem set on calculating the highest Young's elastic modulus.
-

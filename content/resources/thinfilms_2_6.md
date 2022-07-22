@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: thinfilms_2_6
 uid: d6b50158-cea3-a575-90e0-aec32bd11001
 ---
 Image accompanying a course assignment.
-

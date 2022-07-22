@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: silicon
 uid: dd25679f-3ce8-7eee-4e6e-c59184ad5cea
 ---
 Image accompanying a course assignment.
-

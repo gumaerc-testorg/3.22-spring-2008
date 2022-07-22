@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: supreastc_5_pic1
 uid: 356bb2b0-5f68-b8b4-9fc2-c90321f801fb
 ---
 Image accompanying a course assignment.
-

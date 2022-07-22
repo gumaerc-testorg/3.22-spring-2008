@@ -6,6 +6,7 @@ file: /courses/3-22-mechanical-behavior-of-materials-spring-2008/653f08fcd4a9c5f
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,5 +16,3 @@ title: Plasticity and Fracture of Microelectronic Thin Films (SOI -Silicon on In
 uid: 653f08fc-d4a9-c5fc-6cee-0c38fcfd02c8
 ---
 Example of student work: final presentation for the group project, courtesy of Xing Sheng, Liang-Yi Chang, Hang Yu, and Lin Jia.
-
-

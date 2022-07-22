@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: cnt_mech_3_9
 uid: 16bd8b5b-00d9-e2cd-bde5-06e169c0abd4
 ---
 Image accompanying a course assignment.
-

@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: fiber_optics_2_1
 uid: 1230b2dc-8d18-f801-6c7b-27fccf3e639d
 ---
 Image accompanying a course assignment.
-

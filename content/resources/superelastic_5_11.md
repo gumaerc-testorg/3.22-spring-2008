@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: superelastic_5_11
 uid: 02e7131b-edee-1bb6-3e72-cc2548b817bf
 ---
 Image accompanying a course assignment.
-

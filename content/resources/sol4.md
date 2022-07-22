@@ -5,6 +5,7 @@ file: /courses/3-22-mechanical-behavior-of-materials-spring-2008/b7c9ecd3e2c7862
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Problem Set #4 Solutions'
 uid: b7c9ecd3-e2c7-8625-d09f-e3e2c9627618
 ---
 Solutions to a problem set on the mechanical behavior of materials.
-

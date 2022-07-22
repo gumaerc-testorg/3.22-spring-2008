@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: radiation_2_3
 uid: aec0af8c-6f88-1a43-44f9-95c5a813adfd
 ---
 Image accompanying a course assignment.
-

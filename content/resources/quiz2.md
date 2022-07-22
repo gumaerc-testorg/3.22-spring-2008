@@ -5,6 +5,7 @@ file: /courses/3-22-mechanical-behavior-of-materials-spring-2008/3d2c9bfb5235a1d
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Quiz 2
 uid: 3d2c9bfb-5235-a1d1-080f-060fa66885c1
 ---
 Quiz on the mechanical behavior of materials.
-

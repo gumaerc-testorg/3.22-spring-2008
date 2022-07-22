@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: iii_v_2_1
 uid: 1e4cdc8e-2c64-516a-a872-8d3b7baaba13
 ---
 Image accompanying a course assignment.
-

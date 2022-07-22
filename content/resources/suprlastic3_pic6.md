@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: suprlastic3_pic6
 uid: b390af61-9946-d626-e3b4-05d0be8002d9
 ---
 Image accompanying a course assignment.
-

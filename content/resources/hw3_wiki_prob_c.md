@@ -6,6 +6,7 @@ file: /courses/3-22-mechanical-behavior-of-materials-spring-2008/d65fb3440e4134d
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Problem Set 3 Handwritten Solutions
 uid: d65fb344-0e41-34d6-3529-9533bc63c770
 ---
 Example of student work: handwritten solutions to Problem Set 3. Courtesy of Tim Rupert, Aparna Singh, Hyunjung Yi, and ShinYoung Kang.
-

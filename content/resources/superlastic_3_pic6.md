@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: superlastic_3_pic6
 uid: 49d2939e-67a5-b4f3-4faf-cf5b7eb5ee36
 ---
 Image accompanying a course assignment.
-
