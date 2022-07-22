@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 title: Effects of Radiation on Mechanical Behavior of Crystalline Materials - Problem
   Set 5
@@ -12,7 +17,7 @@ _(b) Aldo's Fig. 3 \[[1](#Reference)\] shows relation between effective creep st
   
  
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/radiation_5_1.jpg)
+{{< resource "101ab719-f4ed-fe49-e7ff-dd8da057cf89" >}}
 
 Courtesy of Elsevier, Inc., [Science Direct](http://www.sciencedirect.com/). Used with permission.
 
@@ -23,7 +28,7 @@ Without seeing the unloading data, we have no way of knowing whether these mater
 
 _(c) The authors \[[1](#Reference)\] give a creep model in Eq. 3. Restate this in terms of a steady state creep rate, and determine the creep mechanism in terms of those we have discussed in class. Which of the models we discussed best captures the trend observed by the authors? Assuming the appropriate energy barrier and diffusivity for your mechanism of choice, would you predict final creep strains comparable to the ones they measure at these stresses (where creep strain = strain rate\*time)?_
 
-Restating the authors' creep model in Eq. 3 as a steady state creep rate requires one to take a time derivative of both sides, so de/dt = 1.15(√(2)/3)\*(dD/dt)/Do
+Restating the authors' creep model in Eq. 3 as a steady state creep rate requires one to take a time derivative of both sides, so de/dt = 1.15(√(2)/3)\*(dD/dt)/D{{< sub "o" >}}
 
 Since the change in diameter would be due to a radial stress, it should be linearly proportional to that hoop stress. This leads to a strain rate linearly proportional to the imposed hoop stress, and therefore it is a diffusional creep mechanism. Finally, these steels are quenched & tempered Ferritic/Martensitic steels, so the grain size is likely to be very small, and Coble Creep is therefore the dominant creep mechanism.
 
@@ -44,11 +49,11 @@ As yet, we have found no further reports by these authors correlating the micros
   
  
 
-[Plasticity and fracture of microelectronic thin films/lines]({{< baseurl >}}/pages/projects/thinfilms_home)  
-[Effects of multidimensional defects on III-V semiconductor mechanics]({{< baseurl >}}/pages/projects/iii_v_home)  
-[Defect nucleation in crystalline metals]({{< baseurl >}}/pages/projects/defec_nuclea_hom)  
-[Role of water in accelerated fracture of fiber optic glass]({{< baseurl >}}/pages/projects/fiber_optics_hom)  
-[Carbon nanotube mechanics]({{< baseurl >}}/pages/projects/cnt_mech_home)  
-[Superelastic and superplastic alloys]({{< baseurl >}}/pages/projects/superelasti_home)  
-[Mechanical behavior of a virus]({{< baseurl >}}/pages/projects/virus_home)  
-[Effects of radiation on mechanical behavior of crystalline materials]({{< baseurl >}}/pages/projects/radiation_home) | [Problem Set 2]({{< baseurl >}}/pages/projects/radiation_2) | [Problem Set 3]({{< baseurl >}}/pages/projects/radiation_3) | Problem Set 5
+{{% resource_link d2c4d382-2bf8-b124-ef19-84d129bb758e "Plasticity and fracture of microelectronic thin films/lines" %}}  
+{{% resource_link 6bc9399e-31b7-554b-381b-94e738195a04 "Effects of multidimensional defects on III-V semiconductor mechanics" %}}  
+{{% resource_link 4240da7f-1fee-9884-d011-d970176515dd "Defect nucleation in crystalline metals" %}}  
+{{% resource_link 25015f4f-2da1-f23e-6220-37f2a8145e3f "Role of water in accelerated fracture of fiber optic glass" %}}  
+{{% resource_link 346f07bc-3b08-58de-3e3b-aa79c2ae2dff "Carbon nanotube mechanics" %}}  
+{{% resource_link dcc910e4-d520-5d4c-d99d-97436ce9b436 "Superelastic and superplastic alloys" %}}  
+{{% resource_link 2bee5861-4835-4007-19c7-b55fc641dd04 "Mechanical behavior of a virus" %}}  
+{{% resource_link fec2f6e3-d5f7-3aff-9e49-9fe0cd9ac6f0 "Effects of radiation on mechanical behavior of crystalline materials" %}} | {{% resource_link 0919f251-73fa-3bb8-24b6-200f1e8add7a "Problem Set 2" %}} | {{% resource_link 065bdafc-ff95-dcc5-4d56-8854da744fe3 "Problem Set 3" %}} | Problem Set 5

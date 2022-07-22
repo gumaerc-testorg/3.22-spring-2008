@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 title: Role of Water in Accelerated Fracture of Fiber Optic Glass
 uid: 25015f4f-2da1-f23e-6220-37f2a8145e3f
@@ -32,7 +37,7 @@ Michalske, T. A., and B. C. Bunker. "Slow Fracture Model Based on Strained Silic
 Wiki Assignments
 ----------------
 
-[Problem Set 2]({{< baseurl >}}/pages/projects/fiber_optics_2)
+{{% resource_link 3a387a6b-39e2-cd9c-b822-0a782266c9fc "Problem Set 2" %}}
 
 a) What are the (short-range ordered) structures and elastic moduli of E-glass (aluminum-barium borosilicate glass) and silica glass in the bulk form?
 
@@ -42,7 +47,7 @@ c) State the Cij matrix you feel best captures the elastic constants of these gl
 
 d) Kurkjian, et al. noted that Sakaguchi had intentionally added dust particles to increase the failure stress of such glass fibers. What would the impact on isotropic elastic properties be for the fibers Sakaguchi created, for the sizes and volume fractions of particles he used?
 
-[Problem Set 3]({{< baseurl >}}/pages/projects/fiber_optics_3)
+{{% resource_link 7a726529-af2d-9cbc-1e3c-5a8713c68f3c "Problem Set 3" %}}
 
 (b) Explain the physical mechanisms and mechanical consequences of aging in such fiber optic silica.
 
@@ -50,7 +55,7 @@ d) Kurkjian, et al. noted that Sakaguchi had intentionally added dust particles 
 
 (d) Graphically represent a cross-sectional view of this proposed fracture stress experiment on the fibers, considering the relative lengthscales of the fiber, the depth of indentation corresponding to fracture noted in your calculations for (c), and the finite radius of diamond Berkovich indenter probes.
 
-[Problem Set 5]({{< baseurl >}}/pages/projects/fiber_optics_5)
+{{% resource_link cfc8dbfe-c5ea-42c0-1ec5-186c1827e0c8 "Problem Set 5" %}}
 
 (b) Michalske predicted that water molecules assisted bond breaking in silica long before it was observed directly in atomistic simulations. In his 1984 paper, Fig. 6 is a little hard to understand at first. Make this the inset in a larger figure that shows a macroscopic crack, the direction of loading to open that crack in Mode I, and the direction of propagation of that crack.
 
@@ -63,13 +68,13 @@ d) Kurkjian, et al. noted that Sakaguchi had intentionally added dust particles 
 Final Presentation
 ------------------
 
-"Water-ageing of Silica Optical Fibers." ([PDF]({{< baseurl >}}/resources/fiber_optic_pres))
+"Water-ageing of Silica Optical Fibers." ({{% resource_link a847b0ac-e72c-c9ab-b30f-7e5810ed650d "PDF" %}})
 
-[Plasticity and fracture of microelectronic thin films/lines]({{< baseurl >}}/pages/projects/thinfilms_home)  
-[Effects of multidimensional defects on III-V semiconductor mechanics]({{< baseurl >}}/pages/projects/iii_v_home)  
-[Defect nucleation in crystalline metals]({{< baseurl >}}/pages/projects/defec_nuclea_hom)  
-Role of water in accelerated fracture of fiber optic glass | [Problem Set 2]({{< baseurl >}}/pages/projects/fiber_optics_2) | [Problem Set 3]({{< baseurl >}}/pages/projects/fiber_optics_3) | [Problem Set 5]({{< baseurl >}}/pages/projects/fiber_optics_5)  
-[Carbon nanotube mechanics]({{< baseurl >}}/pages/projects/cnt_mech_home)  
-[Superelastic and superplastic alloys]({{< baseurl >}}/pages/projects/superelasti_home)  
-[Mechanical behavior of a virus]({{< baseurl >}}/pages/projects/virus_home)  
-[Effects of radiation on mechanical behavior of crystalline materials]({{< baseurl >}}/pages/projects/radiation_home)
+{{% resource_link d2c4d382-2bf8-b124-ef19-84d129bb758e "Plasticity and fracture of microelectronic thin films/lines" %}}  
+{{% resource_link 6bc9399e-31b7-554b-381b-94e738195a04 "Effects of multidimensional defects on III-V semiconductor mechanics" %}}  
+{{% resource_link 4240da7f-1fee-9884-d011-d970176515dd "Defect nucleation in crystalline metals" %}}  
+Role of water in accelerated fracture of fiber optic glass | {{% resource_link 3a387a6b-39e2-cd9c-b822-0a782266c9fc "Problem Set 2" %}} | {{% resource_link 7a726529-af2d-9cbc-1e3c-5a8713c68f3c "Problem Set 3" %}} | {{% resource_link cfc8dbfe-c5ea-42c0-1ec5-186c1827e0c8 "Problem Set 5" %}}  
+{{% resource_link 346f07bc-3b08-58de-3e3b-aa79c2ae2dff "Carbon nanotube mechanics" %}}  
+{{% resource_link dcc910e4-d520-5d4c-d99d-97436ce9b436 "Superelastic and superplastic alloys" %}}  
+{{% resource_link 2bee5861-4835-4007-19c7-b55fc641dd04 "Mechanical behavior of a virus" %}}  
+{{% resource_link fec2f6e3-d5f7-3aff-9e49-9fe0cd9ac6f0 "Effects of radiation on mechanical behavior of crystalline materials" %}}

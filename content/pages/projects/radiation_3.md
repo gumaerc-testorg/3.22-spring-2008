@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 title: Effects of Radiation on Mechanical Behavior of Crystalline Materials - Problem
   Set 3
@@ -20,34 +25,34 @@ _(c) Garner, et al. \[[1](#Reference)\] then discuss that ion bombardment at met
 Assumptions
 -----------
 
-Material around gas bubble can be modeled as a spherical pressure vessel. Outer radius of pressure vessel, ro, taken to be the center of gas bubble beneath the material surface
+Material around gas bubble can be modeled as a spherical pressure vessel. Outer radius of pressure vessel, r{{< sub "o" >}}, taken to be the center of gas bubble beneath the material surface
 
-![radiation_3_1.jpg](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/radiation_3_1.jpg)
+{{< resource "fb8c17b5-3fb4-49ad-60ba-b7b1b7ce50ae" >}}
 
-Since _r/t_ < 10, must use "thick wall pressure vessel theory
+Since _r/t_ \< 10, must use "thick wall pressure vessel theory
 
-![radiation_3_2.jpg](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/radiation_3_2.jpg)
+{{< resource "6ecb0a47-99b3-9574-7deb-4505907263f0" >}}
 
 RVE: Radial and hoop stresses are the principal stresses
 
-![radiation_pic1.jpg](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/radiation_pic1.jpg)
+{{< resource "61989447-637a-38d5-3326-e9fdb5610bac" >}}
 
 From von Mises yield criteria:
 
   
  
 
-![radiation_3_3.jpg](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/radiation_3_3.jpg)
+{{< resource "cd9c96e0-b1bc-fe5f-f105-0f6f5e7e05fa" >}}
 
-![radiation_3_4.jpg](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/radiation_3_4.jpg)
+{{< resource "b69e2d3e-ff1e-b15b-03d6-c4a76ea7dc61" >}}
 
-![radiation_3_5.jpg](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/radiation_3_5.jpg)
+{{< resource "33fe7896-aa6f-b294-d968-eb8b2379ac9b" >}}
 
-![radiation_3_6.jpg](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/radiation_3_6.jpg)
+{{< resource "e1a6b801-7236-bece-8b85-8274d2633ee7" >}}
 
-![radiation_3_7.jpg](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/radiation_3_7.jpg)
+{{< resource "ea2b8054-d1da-cac7-3140-40fdf0fe1a30" >}}
 
-![radiation_3_8.jpg](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/radiation_3_8.jpg)
+{{< resource "d1fe50b3-8d07-da8c-9673-b0e8e919786d" >}}
 
   
  
@@ -58,7 +63,7 @@ The lateral stress would have the effect of squeezing the FCC and BCC grains in 
 
 In addition, lateral stresses arise from voids created by ion bombardment. These are often due to gas pressure or to gas-free void nucleation, and are isotropically distributed throughout the plane parallel to the surface assuming constant normal irradiation. All these lateral stresses would have the effect of squeezing all the grains from four of its six sides, and these lateral stresses will cause the grains to expand into the free surface.
 
-Mathematically, if the bulk of a crystal experiences a hydrostatic stress S from a combination of thermal expansion, void creation, gas bubble formation, and other processes, than at the surface σ1 = σ2 = S, and σ3 = 0. Therefore the lateral strain in the direction normal to the surface would be twice the Poisson's ratio times the hydrostatic stress in the crystal bulk.
+Mathematically, if the bulk of a crystal experiences a hydrostatic stress S from a combination of thermal expansion, void creation, gas bubble formation, and other processes, than at the surface σ{{< sub "1" >}} = σ{{< sub "2" >}} = S, and σ{{< sub "3" >}} = 0. Therefore the lateral strain in the direction normal to the surface would be twice the Poisson's ratio times the hydrostatic stress in the crystal bulk.
 
 {{< anchor "Reference" >}}{{< /anchor >}}Reference
 --------------------------------------------------
@@ -69,11 +74,11 @@ Mathematically, if the bulk of a crystal experiences a hydrostatic stress S from
   
  
 
-[Plasticity and fracture of microelectronic thin films/lines]({{< baseurl >}}/pages/projects/thinfilms_home)  
-[Effects of multidimensional defects on III-V semiconductor mechanics]({{< baseurl >}}/pages/projects/iii_v_home)  
-[Defect nucleation in crystalline metals]({{< baseurl >}}/pages/projects/defec_nuclea_hom)  
-[Role of water in accelerated fracture of fiber optic glass]({{< baseurl >}}/pages/projects/fiber_optics_hom)  
-[Carbon nanotube mechanics]({{< baseurl >}}/pages/projects/cnt_mech_home)  
-[Superelastic and superplastic alloys]({{< baseurl >}}/pages/projects/superelasti_home)  
-[Mechanical behavior of a virus]({{< baseurl >}}/pages/projects/virus_home)  
-[Effects of radiation on mechanical behavior of crystalline materials]({{< baseurl >}}/pages/projects/radiation_home) | [Problem Set 2]({{< baseurl >}}/pages/projects/radiation_2) | Problem Set 3 | [Problem Set 5]({{< baseurl >}}/pages/projects/radiation_5)
+{{% resource_link d2c4d382-2bf8-b124-ef19-84d129bb758e "Plasticity and fracture of microelectronic thin films/lines" %}}  
+{{% resource_link 6bc9399e-31b7-554b-381b-94e738195a04 "Effects of multidimensional defects on III-V semiconductor mechanics" %}}  
+{{% resource_link 4240da7f-1fee-9884-d011-d970176515dd "Defect nucleation in crystalline metals" %}}  
+{{% resource_link 25015f4f-2da1-f23e-6220-37f2a8145e3f "Role of water in accelerated fracture of fiber optic glass" %}}  
+{{% resource_link 346f07bc-3b08-58de-3e3b-aa79c2ae2dff "Carbon nanotube mechanics" %}}  
+{{% resource_link dcc910e4-d520-5d4c-d99d-97436ce9b436 "Superelastic and superplastic alloys" %}}  
+{{% resource_link 2bee5861-4835-4007-19c7-b55fc641dd04 "Mechanical behavior of a virus" %}}  
+{{% resource_link fec2f6e3-d5f7-3aff-9e49-9fe0cd9ac6f0 "Effects of radiation on mechanical behavior of crystalline materials" %}} | {{% resource_link 0919f251-73fa-3bb8-24b6-200f1e8add7a "Problem Set 2" %}} | Problem Set 3 | {{% resource_link 1ffd3c1d-bf94-ae3e-1e22-3ec1fc1c3ba9 "Problem Set 5" %}}

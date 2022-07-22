@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 title: Plasticity and Fracture of Microelectronic Thin Films/Lines - Problem Set 3
 uid: 1cc6e515-e08d-3ae8-5946-4bd60d338299
@@ -16,9 +21,9 @@ Image removed due to copyright restrictions. Please see Fig. 7 in \[[1](#ref)\].
   
  
 
-Let us consider the two-film structure model above; we can refer to ZnO as material 1, and Si3N4 as material 2.
+Let us consider the two-film structure model above; we can refer to ZnO as material 1, and Si{{< sub "3" >}}N{{< sub "4" >}} as material 2.
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/thinfilms_3_1.jpg)
+{{< resource "f051e263-505f-6f39-b4a6-a95f9fe47aba" >}}
 
 And as shown by the paper, we have the table below:
 
@@ -32,29 +37,29 @@ Table removed due to copyright restrictions. Please see Table 1 in \[[1](#ref)\]
 
 We can separate the compliance matrix to two parts: the first one is related to the 1, 2, 3 dimension, and the other is related to the 4, 5, 6 dimension below:
 
-For Si3N4 as material 2,
+For Si{{< sub "3" >}}N{{< sub "4" >}} as material 2,
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/thinfilms_3_2.jpg)
+{{< resource "00c9bebd-ea05-83de-e399-995fcaa36daf" >}}
 
 For ZnO as material 1,
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/thinfilms_3_3.jpg)
+{{< resource "0495a885-d567-67fc-7abc-75ea973e6dc6" >}}
 
 For the two-layer composite, we can predict that the matrix has the below form,
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/thinfilms_3_4.jpg)
+{{< resource "62838669-396d-3303-4cff-512241b150f3" >}}
 
 Now we need to determine P, Q, J, L, K and M from the matrices of materials 1 and 2. Let us determine them one by one.
 
 We set the volume fraction of material 1 as a and the volume fraction of material 2 as b.The equation is shown below,
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/thinfilms_3_5.jpg)
+{{< resource "245c5144-c056-27d4-999b-66996de075de" >}}
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/thinfilms_3_6.jpg)
+{{< resource "4896e52d-3672-be4d-bc93-5301aaa5d9fc" >}}
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/thinfilms_3_7.jpg) = extrinsic strain = thermal strain in this work
+{{< resource "7629f159-7964-c8f4-5d1d-db0ec5042f8c" >}} = extrinsic strain = thermal strain in this work
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/thinfilms_3_8.jpg) = intrinsic strain =
+{{< resource "8f9bd21e-be77-d557-fdb9-8b2f7ebd307e" >}} = intrinsic strain =
 
 1.  dopants
 2.  "atomic peening" which causes compressive stress
@@ -74,7 +79,7 @@ The contributors of intrinsic strain mentioned in the literature are:
 5.  shrinkage during process which causes tensile stress
 6.  grain boundaries
 
-For this system, the Si3N4 and ZnO films are deposited through PECVD.
+For this system, the Si{{< sub "3" >}}N{{< sub "4" >}} and ZnO films are deposited through PECVD.
 
 Among the 6 contributors above;
 
@@ -83,7 +88,7 @@ Among the 6 contributors above;
 3.  Microvoids are caused by poor quality of film during process, which depends on the material, the environment, and the growth rate during PECVD.
 4.  Since plasma (Ar, for example) is used in PECVD, it is very possible that gas will be entrapped in the film. Therefore this contribution is relatively significant.
 5.  Shrinkage often happens in ceramics during sintering. There is no sintering in the process, so this contributor is small.
-6.  For Si3N4, it is an amorphous film, so there are no grain boundaries. For ZnO, this effect is possible.
+6.  For Si{{< sub "3" >}}N{{< sub "4" >}}, it is an amorphous film, so there are no grain boundaries. For ZnO, this effect is possible.
 
 Integrating and rank-ordering all the effects, I get the conclusion below:
 
@@ -93,13 +98,13 @@ _(d) Determine the % of residual stress in terms of the tensile and compressive 
 
 Use the material properties give in Table I,
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/thinfilms_3_9.jpg)
+{{< resource "b59e55af-6bb0-984c-abf5-49aeaa53b667" >}}
 
-Given that residual strain is 10\-12
+Given that residual strain is 10{{< sup "\-12" >}}
 
 Substituting S matrix and residual strain into the residual stress tensor equation given above, we have residual stress,
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/thinfilms_3_10.jpg)
+{{< resource "f9eed9e7-63c4-a27a-38f1-a0c928d823d8" >}}
 
 Provided yield stress of silicon nitride and zinc oxide is 900 and 412 MPa respectively.
 
@@ -114,11 +119,11 @@ Therefore, the residual stress is very small compared to the yield stress of sil
   
  
 
-[Plasticity and fracture of microelectronic thin films/lines]({{< baseurl >}}/pages/projects/thinfilms_home) | [Problem Set 2]({{< baseurl >}}/pages/projects/thinfilms_2) | Problem Set 3 | [Problem Set 5]({{< baseurl >}}/pages/projects/thinfilms_5)  
-[Effects of multidimensional defects on III-V semiconductor mechanics]({{< baseurl >}}/pages/projects/iii_v_home)  
-[Defect nucleation in crystalline metals]({{< baseurl >}}/pages/projects/defec_nuclea_hom)  
-[Role of water in accelerated fracture of fiber optic glass]({{< baseurl >}}/pages/projects/fiber_optics_hom)  
-[Carbon nanotube mechanics]({{< baseurl >}}/pages/projects/cnt_mech_home)  
-[Superelastic and superplastic alloys]({{< baseurl >}}/pages/projects/superelasti_home)  
-[Mechanical behavior of a virus]({{< baseurl >}}/pages/projects/virus_home)  
-[Effects of radiation on mechanical behavior of crystalline materials]({{< baseurl >}}/pages/projects/radiation_home)
+{{% resource_link d2c4d382-2bf8-b124-ef19-84d129bb758e "Plasticity and fracture of microelectronic thin films/lines" %}} | {{% resource_link 18f53477-73f8-8b4d-a912-b104d6509167 "Problem Set 2" %}} | Problem Set 3 | {{% resource_link c085c269-53e4-62fe-e9b1-2c684b93cd85 "Problem Set 5" %}}  
+{{% resource_link 6bc9399e-31b7-554b-381b-94e738195a04 "Effects of multidimensional defects on III-V semiconductor mechanics" %}}  
+{{% resource_link 4240da7f-1fee-9884-d011-d970176515dd "Defect nucleation in crystalline metals" %}}  
+{{% resource_link 25015f4f-2da1-f23e-6220-37f2a8145e3f "Role of water in accelerated fracture of fiber optic glass" %}}  
+{{% resource_link 346f07bc-3b08-58de-3e3b-aa79c2ae2dff "Carbon nanotube mechanics" %}}  
+{{% resource_link dcc910e4-d520-5d4c-d99d-97436ce9b436 "Superelastic and superplastic alloys" %}}  
+{{% resource_link 2bee5861-4835-4007-19c7-b55fc641dd04 "Mechanical behavior of a virus" %}}  
+{{% resource_link fec2f6e3-d5f7-3aff-9e49-9fe0cd9ac6f0 "Effects of radiation on mechanical behavior of crystalline materials" %}}

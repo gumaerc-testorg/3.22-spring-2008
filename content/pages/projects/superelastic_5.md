@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 title: Superelastic and Superplastic Alloys - Problem Set 5
 uid: a7a6f0d3-b0ba-b69f-bbe7-33bf6be6aa67
@@ -159,7 +164,7 @@ MATERIAL
 TEMPERATURE (°C)
 {{< thclose >}}
 {{< thopen >}}
-STRAIN RATE (s\-1)
+STRAIN RATE (s{{< sup "\-1" >}})
 {{< thclose >}}
 {{< thopen >}}
 Stress (MPa)
@@ -168,7 +173,7 @@ Stress (MPa)
 _n_
 {{< thclose >}}
 {{< thopen >}}
-_Q_ (kJ mol\-1)
+_Q_ (kJ mol{{< sup "\-1" >}})
 {{< thclose >}}
 {{< thopen >}}
 GRAIN SIZE (μm)
@@ -185,7 +190,7 @@ Mukherjee \[[1](#References)\]
 700-1000
 {{< tdclose >}}
 {{< tdopen >}}
-6 X 10\-5—6 X 10\-3
+6 X 10{{< sup "\-5" >}}—6 X 10{{< sup "\-3" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 6-178
@@ -209,7 +214,7 @@ Kato, et al. \[[2](#References)\]
 628-888
 {{< tdclose >}}
 {{< tdopen >}}
-1 X 10\-5—2 X 10\-2
+1 X 10{{< sup "\-5" >}}—2 X 10{{< sup "\-2" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 11-81
@@ -217,7 +222,7 @@ Kato, et al. \[[2](#References)\]
 {{< tdopen >}}
 
 
-1 and 5.9 (2.5 ± 0.2a)
+1 and 5.9 (2.5 ± 0.2{{< sup "a" >}})
 
 
 {{< tdclose >}}
@@ -237,7 +242,7 @@ Eggeler, et al. \[[3](#References)\]
 470-530
 {{< tdclose >}}
 {{< tdopen >}}
-2 X 10\-9—8 X 10\-6
+2 X 10{{< sup "\-9" >}}—8 X 10{{< sup "\-6" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 90-150
@@ -261,7 +266,7 @@ Kobus, et al. \[[4](#References)\]
 500-560
 {{< tdclose >}}
 {{< tdopen >}}
-2 X 10\-7—3 X 10\-5
+2 X 10{{< sup "\-7" >}}—3 X 10{{< sup "\-5" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 120-180
@@ -285,7 +290,7 @@ Lexcellent, et al. \[[5](#References)\]
 597-897
 {{< tdclose >}}
 {{< tdopen >}}
-3 X 10\-3—4 X 10\-2
+3 X 10{{< sup "\-3" >}}—4 X 10{{< sup "\-2" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 10-35
@@ -309,7 +314,7 @@ Oppenheimer, et al. \[[6](#References)\]
 950-1100
 {{< tdclose >}}
 {{< tdopen >}}
-1 X 10\-6—1 X 10\-5
+1 X 10{{< sup "\-6" >}}—1 X 10{{< sup "\-5" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 4.7-11
@@ -328,13 +333,13 @@ Oppenheimer, et al. \[[6](#References)\]
 
 {{< tableclose >}}
 
-a Single sample method.
+{{< sup "a" >}} Single sample method.
 
-In 1968, Mukherjee \[[1](#References)\] was the first to study the creep properties of NiTi. The tensile flow stress was measured over six temperatures spanning 700-1000 °C (corresponding to homologous temperatures of 0.61-0.80, using the melting point of 1310 °C for equiatomic NiTi) at three constant strain rates spanning two orders of magnitude. The stress exponent and activation energy for creep were discussed in the light of the then-recent theories of viscous creep. Three decades later, Kato, et al. \[[2](#References)\] published an extensive study of tensile creep in NiTi wires between 628 and 888 °C. Both constant creep rate and constant load experiments were performed. The creep exponent was determined using two different methods: first by performing strain rate jumps and measuring flow stress, and second by using the reduction in gauge area occurring during deformation to access many different stresses in a single constant load experiment. The former, more standard method gave a stress exponent more than twice that of the latter method. Eggeler and co-workers \[[3](#References)\] and \[[4](#References)\] published two studies where tensile creep was measured at lower temperatures (470-560 °C), at which Ti3Ni4 precipitates formed during heating to the test temperature and coarsened during creep testing. The evolving microstructure resulted in two sets of results: an initial minimum creep rate which was up to two orders of magnitude slower than the subsequent plateau (steady-state) creep rates. The respective stress exponents and activation energies were also different. These authors studied the dislocation structure developed after creep deformation, and the effect of prior creep upon the phase-transformation of NiTi near ambient temperature. Finally, in a recent study, Lexcellent, et al. \[[5](#References)\] measured the creep rate of NiTi between 600 and 900 °C and obtained an activation energy higher than the tracer diffusivity activation energy of Ni in NiTi.
+In 1968, Mukherjee \[[1](#References)\] was the first to study the creep properties of NiTi. The tensile flow stress was measured over six temperatures spanning 700-1000 °C (corresponding to homologous temperatures of 0.61-0.80, using the melting point of 1310 °C for equiatomic NiTi) at three constant strain rates spanning two orders of magnitude. The stress exponent and activation energy for creep were discussed in the light of the then-recent theories of viscous creep. Three decades later, Kato, et al. \[[2](#References)\] published an extensive study of tensile creep in NiTi wires between 628 and 888 °C. Both constant creep rate and constant load experiments were performed. The creep exponent was determined using two different methods: first by performing strain rate jumps and measuring flow stress, and second by using the reduction in gauge area occurring during deformation to access many different stresses in a single constant load experiment. The former, more standard method gave a stress exponent more than twice that of the latter method. Eggeler and co-workers \[[3](#References)\] and \[[4](#References)\] published two studies where tensile creep was measured at lower temperatures (470-560 °C), at which Ti{{< sub "3" >}}Ni{{< sub "4" >}} precipitates formed during heating to the test temperature and coarsened during creep testing. The evolving microstructure resulted in two sets of results: an initial minimum creep rate which was up to two orders of magnitude slower than the subsequent plateau (steady-state) creep rates. The respective stress exponents and activation energies were also different. These authors studied the dislocation structure developed after creep deformation, and the effect of prior creep upon the phase-transformation of NiTi near ambient temperature. Finally, in a recent study, Lexcellent, et al. \[[5](#References)\] measured the creep rate of NiTi between 600 and 900 °C and obtained an activation energy higher than the tracer diffusivity activation energy of Ni in NiTi.
 
 Nasser and Choi constructed a schematic deformation mechanism map of Ni-Ti-Cr alloy based on an experimental analysis of its creep behavior \[[7](#References)\]. This empirical construct, which plots true stress as a function of strain rate, rather than normalized stress and normalized temperature, is reproduced below.
 
-![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/supreastc_5_pic1.jpg)
+{{< resource "356bb2b0-5f68-b8b4-9fc2-c90321f801fb" >}}
 
 Courtesy Elsevier, Inc., [Science Direct](http://www.sciencedirect.com/). Used with permission. \[[7](#References)\]
 
@@ -342,17 +347,17 @@ _(c) Compare the fracture strengths of superelastic alloys of your choice to tho
 
 **Fracture strength** is the true normal stress on the minimum cross-sectional area at the beginning of fracture. In a tensile test, it is the load at fracture divided by the cross-sectional area of the specimen. This can be treated as an ultimate tensile strength. We can compare the fracture strength of the superelastic alloy NiTi to that of its components, Ni and Ti:
 
-Ti: ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/superelastic_5_1.jpg)
+Ti: {{< resource "f1fe7d7a-d3e1-ed3f-a924-cf504a6ff3d4" >}}
 
-Ni: ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/superelastic_5_2.jpg)
+Ni: {{< resource "ea5a555e-100b-2686-88d5-21a5d3d4eed0" >}}
 
-NiTi: ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/superelastic_5_3.jpg)
+NiTi: {{< resource "133869a3-02c5-367b-13e3-74fdb13a6013" >}}
 
 (Source: \[[8](#References)\])
 
 NiTi has a fracture strength nearly three times that of its strongest constituent, nickel! Thus, NiTi, unlike pure nickel or titanium, can be used in a variety of environments where high strength is requisite. This is the defining feature of alloys; alloying one metal with others often enhances its properties. Though the physical properties, like density, reactivity, Young's modulus, and electrical and thermal conductivity, of an alloy may not diverge greatly from those of its elements, its engineering properties, such as tensile strength and shear strength may be substantially different from those of its constituent materials.
 
-**Fracture toughness** is a property which describes the ability of a material containing a crack to resist fracture. It is one of the most important properties of any material for virtually all design applications. It is denoted by KIC and has the units of MPa√_m_ . The subscript 'IC' denotes Mode I crack opening under a normal tensile stress perpendicular to the crack, since the material can be made thick enough to resist shear (Mode II) or tear (Mode III).
+**Fracture toughness** is a property which describes the ability of a material containing a crack to resist fracture. It is one of the most important properties of any material for virtually all design applications. It is denoted by K{{< sub "IC" >}} and has the units of MPa√_m_ . The subscript 'IC' denotes Mode I crack opening under a normal tensile stress perpendicular to the crack, since the material can be made thick enough to resist shear (Mode II) or tear (Mode III).
 
 Fracture toughness is a quantitative way of expressing a material's resistance to brittle fracture when a crack is present. If a material has a large value of fracture toughness it will probably undergo ductile fracture. Brittle fracture is very characteristic of materials with a low fracture toughness value.
 
@@ -365,7 +370,7 @@ Fracture mechanics, which leads to the concept of fracture toughness, was largel
 MATERIAL
 {{< thclose >}}
 {{< thopen >}}
-KIC(MPa√_m_)
+K{{< sub "IC" >}}(MPa√_m_)
 {{< thclose >}}
 
 {{< trclose >}}
@@ -510,11 +515,11 @@ Polystyrene
 
 {{< tableclose >}}
 
-Very little data is reported for the fracture toughness of NiTi. He, et al., \[[10](#References)\] in a study on the hydrogen effects on NiTi, have recently reported the KIC values for austenitic NiTi (Ni/Ti ratio of 55/45 and an austenite start temperature of 80°C) at 20°C. They used tensile testing and x-ray diffraction to confirm the formation of stress-induced martensite. They report KIC = 39.2 MPa√_m_ for samples that were annealed at 150°C, and 53.1 MPa√_m_ for samples that were annealed at 700°C for half an hour.
+Very little data is reported for the fracture toughness of NiTi. He, et al., \[[10](#References)\] in a study on the hydrogen effects on NiTi, have recently reported the K{{< sub "IC" >}} values for austenitic NiTi (Ni/Ti ratio of 55/45 and an austenite start temperature of 80°C) at 20°C. They used tensile testing and x-ray diffraction to confirm the formation of stress-induced martensite. They report K{{< sub "IC" >}} = 39.2 MPa√_m_ for samples that were annealed at 150°C, and 53.1 MPa√_m_ for samples that were annealed at 700°C for half an hour.
 
 The fracture toughness of NiTi is not exceptionally high, particularly when compared to other commonly used biomedical materials such as 316SS. Furthermore, what's interesting is that Ni alloys and Ti alloys, exclusive of the shape memory alloys, have fracture toughnesses ranging from 50-150 MPa√m (Ashby Chart of Fracture Toughness versus Fracture Strength). Nitinol is at the lower end of this range. Pure Ni and Ti have plane strain fracture toughnesses of 100-150 MPa√m and 50-70 MPa√m, respectively \[[8](#References)\].
 
-Therefore, we can conclude that a superelastic alloy's fracture toughness is much higher than that of its alloy components. Fracture toughness KC is related to the material toughness GC via ![](/courses/materials-science-and-engineering/3-22-mechanical-behavior-of-materials-spring-2008/projects/superelastic_5_11.jpg) in plane strain conditions; GC is the energy density beneath the entire stress-strain curve. Thus, a material that is ductile and has a high ultimate strength generally also has high material toughness, and subsequently high fracture toughness.
+Therefore, we can conclude that a superelastic alloy's fracture toughness is much higher than that of its alloy components. Fracture toughness K{{< sub "C" >}} is related to the material toughness G{{< sub "C" >}} via {{< resource "02e7131b-edee-1bb6-3e72-cc2548b817bf" >}} in plane strain conditions; G{{< sub "C" >}} is the energy density beneath the entire stress-strain curve. Thus, a material that is ductile and has a high ultimate strength generally also has high material toughness, and subsequently high fracture toughness.
 
 However, the fracture mechanism of a superelastic alloy is not as simple to intuit. Articles which present studies of fatigue-crack propagation behavior in Nitinol, a 50Ni-50Ti (atomic percent) superelastic/shape-memory alloy, with particular emphasis on the effect of the stress-induced martensitic transformation on crack-growth resistance, present that in general, fatigue-crack growth resistance was found to increase with decreasing temperature, such that fatigue thresholds were higher and crack-growth rates slower in martensite compared to stable austenite and superelastic austenite. Of note was the observation that the stress-induced transformation of the superelastic austenite structure, which occurs readily at 37 °C during uniaxial tensile testing, could be suppressed during fatigue-crack propagation by the tensile hydrostatic stress state ahead of a crack tip in plane strain; this effect, however, was not seen in thinner specimens, where the constraint was relaxed due to prevailing plane-stress conditions. \[[12](#References)\]
 
@@ -547,11 +552,11 @@ However, the fracture mechanism of a superelastic alloy is not as simple to intu
 
 \[13\] Taillard, K., et al. "Phase Transformation Yield Surface of Anisotropic Shape Memory Alloys." _Materials Science and Engineering A_ 438-440 (2006): 436-440.
 
-[Plasticity and fracture of microelectronic thin films/lines]({{< baseurl >}}/pages/projects/thinfilms_home)  
-[Effects of multidimensional defects on III-V semiconductor mechanics]({{< baseurl >}}/pages/projects/iii_v_home)  
-[Defect nucleation in crystalline metals]({{< baseurl >}}/pages/projects/defec_nuclea_hom)  
-[Role of water in accelerated fracture of fiber optic glass]({{< baseurl >}}/pages/projects/fiber_optics_hom)  
-[Carbon nanotube mechanics]({{< baseurl >}}/pages/projects/cnt_mech_home)  
-[Superelastic and superplastic alloys]({{< baseurl >}}/pages/projects/superelasti_home) | [Problem Set 2]({{< baseurl >}}/pages/projects/superelastic_2) | [Problem Set 3]({{< baseurl >}}/pages/projects/superlastic_3) | Problem Set 5  
-[Mechanical behavior of a virus]({{< baseurl >}}/pages/projects/virus_home)  
-[Effects of radiation on mechanical behavior of crystalline materials]({{< baseurl >}}/pages/projects/radiation_home)
+{{% resource_link d2c4d382-2bf8-b124-ef19-84d129bb758e "Plasticity and fracture of microelectronic thin films/lines" %}}  
+{{% resource_link 6bc9399e-31b7-554b-381b-94e738195a04 "Effects of multidimensional defects on III-V semiconductor mechanics" %}}  
+{{% resource_link 4240da7f-1fee-9884-d011-d970176515dd "Defect nucleation in crystalline metals" %}}  
+{{% resource_link 25015f4f-2da1-f23e-6220-37f2a8145e3f "Role of water in accelerated fracture of fiber optic glass" %}}  
+{{% resource_link 346f07bc-3b08-58de-3e3b-aa79c2ae2dff "Carbon nanotube mechanics" %}}  
+{{% resource_link dcc910e4-d520-5d4c-d99d-97436ce9b436 "Superelastic and superplastic alloys" %}} | {{% resource_link 149fee27-7560-a343-acc4-9df953361eaf "Problem Set 2" %}} | {{% resource_link 930bd449-6d42-b095-aae2-1811720720e4 "Problem Set 3" %}} | Problem Set 5  
+{{% resource_link 2bee5861-4835-4007-19c7-b55fc641dd04 "Mechanical behavior of a virus" %}}  
+{{% resource_link fec2f6e3-d5f7-3aff-9e49-9fe0cd9ac6f0 "Effects of radiation on mechanical behavior of crystalline materials" %}}

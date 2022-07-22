@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 title: Effects of Multidimensional Defects on III-V Semiconductor Mechanics
 uid: 6bc9399e-31b7-554b-381b-94e738195a04
@@ -25,7 +30,7 @@ Yonenaga, Ichiro, Koji Sumino, Gunzo Izawa, Hisao Watanabe, and Junji Matsui. "M
 Wiki Assignments
 ----------------
 
-[Problem Set 2]({{< baseurl >}}/pages/projects/iii_v_2)
+{{% resource_link 4004d0a3-e09b-c1eb-db08-0be15d73640b "Problem Set 2" %}}
 
 (a) Draw the crystal structure of GaAs, and a separate graphic which is the closest-packed plane and direction on that plane. Discuss the major differences in this structure, as compared to Si.
 
@@ -35,7 +40,7 @@ Wiki Assignments
 
 (d) Based on your analysis of GaAs elastic anisotropy, explain (graphically and/or text) which film orientation you would aim to achieve to create GaAs films or wafers that would be maximally resistant to bending.
 
-[Problem Set 3]({{< baseurl >}}/pages/projects/iii_v_3)
+{{% resource_link 8233726e-d8fe-061c-b415-6a97ebaf13a4 "Problem Set 3" %}}
 
 (b) Why do Yonenaga, et al. claim that understanding of dislocation dynamics is relevant to GaAsP studies (basic science and applications)? Please do not restate their arguments, but rather justify them through a more detailed analysis than they could consider in a paper intro.
 
@@ -43,28 +48,28 @@ Wiki Assignments
 
 (d) Given the stated impurity concentrations for the compounds considered by Yonenaga, et al., determine the maximum (average) glide distance a dislocation would require to encounter a point defect.
 
-[Problem Set 5]({{< baseurl >}}/pages/projects/iii_v_5)
+{{% resource_link 3e7072d8-b2a1-1647-db86-2d7ac5cd83fa "Problem Set 5" %}}
 
-(b) Eq. 2 of Navamathavan, et al. states an equivalence between fracture surface energy and KIC, the plane strain fracture toughness of the semiconductor films inferred from indentation cracking. From the definitions of KIC and Griffith's fracture criterion, prove whether this equation is true for a brittle material.
+(b) Eq. 2 of Navamathavan, et al. states an equivalence between fracture surface energy and K{{< sub "IC" >}}, the plane strain fracture toughness of the semiconductor films inferred from indentation cracking. From the definitions of K{{< sub "IC" >}} and Griffith's fracture criterion, prove whether this equation is true for a brittle material.
 
-(c) Although they report these data in Table 3, the authors do not appear to put the results in context by comparing the calculated KIC and surface energy with values reported for these (or similar) materials via other experiments. Do this, and discuss whether you feel the characterization of these fracture properties and surface energies of the materials is valid.
+(c) Although they report these data in Table 3, the authors do not appear to put the results in context by comparing the calculated K{{< sub "IC" >}} and surface energy with values reported for these (or similar) materials via other experiments. Do this, and discuss whether you feel the characterization of these fracture properties and surface energies of the materials is valid.
 
-(d) Why do you think the authors observed a film thickness dependence of KIC and fracture surface energy (in Table 3), if these are supposed to be properties of the material?
+(d) Why do you think the authors observed a film thickness dependence of K{{< sub "IC" >}} and fracture surface energy (in Table 3), if these are supposed to be properties of the material?
 
 Final Presentation
 ------------------
 
-"Multidimensional Defects in III-V Semiconductors." ([PDF]({{< baseurl >}}/resources/iii_v_pres))
+"Multidimensional Defects in III-V Semiconductors." ({{% resource_link 0ed7a3ad-17ba-6b47-c710-2c219570c1d5 "PDF" %}})
 
   
   
  
 
-[Plasticity and fracture of microelectronic thin films/lines]({{< baseurl >}}/pages/projects/thinfilms_home)  
-Effects of multidimensional defects on III-V semiconductor mechanics | [Problem Set 2]({{< baseurl >}}/pages/projects/iii_v_2) | [Problem Set 3]({{< baseurl >}}/pages/projects/iii_v_3) | [Problem Set 5]({{< baseurl >}}/pages/projects/iii_v_5)  
-[Defect nucleation in crystalline metals]({{< baseurl >}}/pages/projects/defec_nuclea_hom)  
-[Role of water in accelerated fracture of fiber optic glass]({{< baseurl >}}/pages/projects/fiber_optics_hom)  
-[Carbon nanotube mechanics]({{< baseurl >}}/pages/projects/cnt_mech_home)  
-[Superelastic and superplastic alloys]({{< baseurl >}}/pages/projects/superelasti_home)  
-[Mechanical behavior of a virus]({{< baseurl >}}/pages/projects/virus_home)  
-[Effects of radiation on mechanical behavior of crystalline materials]({{< baseurl >}}/pages/projects/radiation_home)
+{{% resource_link d2c4d382-2bf8-b124-ef19-84d129bb758e "Plasticity and fracture of microelectronic thin films/lines" %}}  
+Effects of multidimensional defects on III-V semiconductor mechanics | {{% resource_link 4004d0a3-e09b-c1eb-db08-0be15d73640b "Problem Set 2" %}} | {{% resource_link 8233726e-d8fe-061c-b415-6a97ebaf13a4 "Problem Set 3" %}} | {{% resource_link 3e7072d8-b2a1-1647-db86-2d7ac5cd83fa "Problem Set 5" %}}  
+{{% resource_link 4240da7f-1fee-9884-d011-d970176515dd "Defect nucleation in crystalline metals" %}}  
+{{% resource_link 25015f4f-2da1-f23e-6220-37f2a8145e3f "Role of water in accelerated fracture of fiber optic glass" %}}  
+{{% resource_link 346f07bc-3b08-58de-3e3b-aa79c2ae2dff "Carbon nanotube mechanics" %}}  
+{{% resource_link dcc910e4-d520-5d4c-d99d-97436ce9b436 "Superelastic and superplastic alloys" %}}  
+{{% resource_link 2bee5861-4835-4007-19c7-b55fc641dd04 "Mechanical behavior of a virus" %}}  
+{{% resource_link fec2f6e3-d5f7-3aff-9e49-9fe0cd9ac6f0 "Effects of radiation on mechanical behavior of crystalline materials" %}}

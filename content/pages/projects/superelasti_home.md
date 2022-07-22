@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 8388cfe3-4b2f-b7e7-0060-faf27a65e652
 title: Superelastic and Superplastic Alloys
 uid: dcc910e4-d520-5d4c-d99d-97436ce9b436
@@ -24,7 +29,7 @@ Calloch, S., et al. "Relation Between the Martensite Volume Fraction and the Equ
 Wiki Assignments
 ----------------
 
-[Problem Set 2]({{< baseurl >}}/pages/projects/superelastic_2)
+{{% resource_link 149fee27-7560-a343-acc4-9df953361eaf "Problem Set 2" %}}
 
 (a) Explain the physical basis of superelasticity.
 
@@ -34,7 +39,7 @@ Wiki Assignments
 
 (d) What in terms of material structure and continuum level mechanical properties determines the maximum mechanical energy possible to obtain from a superelastic alloy in an actuator application?
 
-[Problem Set 3]({{< baseurl >}}/pages/projects/superlastic_3)
+{{% resource_link 930bd449-6d42-b095-aae2-1811720720e4 "Problem Set 3" %}}
 
 (b) Taillard, et al. summarize Bouvet, et al.'s attempt at a yield surface for superelastic alloys; this is a modification of the von Mises equivalent stress and criterion that we have discussed. Restate this criterion and its components in terms of the symbols used in class.
 
@@ -42,7 +47,7 @@ Wiki Assignments
 
 (d) Contrast the Bouvet yield surface with the other non-asymmetric yield surfaces considered in PS3. Is this equivalent to one of them or different, and how? What is the atomistic origin of the asymmetry justifying the Bouvet yield criteria?
 
-[Problem Set 5]({{< baseurl >}}/pages/projects/superelastic_5)
+{{% resource_link a7a6f0d3-b0ba-b69f-bbe7-33bf6be6aa67 "Problem Set 5" %}}
 
 (b) Are the superelastic alloys you've read about here subject to creep failure in tension? Think especially about paper 2, and graph a rough (but justified) deformation mechanism map for one particular superelastic alloy of your choice.
 
@@ -51,17 +56,17 @@ Wiki Assignments
 Final Presentation
 ------------------
 
-"Superelastic Materials: Shape Memory Alloys." ([PDF]({{< baseurl >}}/resources/superelastic_pres))
+"Superelastic Materials: Shape Memory Alloys." ({{% resource_link db755c09-033d-74b9-a5b8-fa28ef5bdd5f "PDF" %}})
 
   
   
  
 
-[Plasticity and fracture of microelectronic thin films/lines]({{< baseurl >}}/pages/projects/thinfilms_home)  
-[Effects of multidimensional defects on III-V semiconductor mechanics]({{< baseurl >}}/pages/projects/iii_v_home)  
-[Defect nucleation in crystalline metals]({{< baseurl >}}/pages/projects/defec_nuclea_hom)  
-[Role of water in accelerated fracture of fiber optic glass]({{< baseurl >}}/pages/projects/fiber_optics_hom)  
-[Carbon nanotube mechanics]({{< baseurl >}}/pages/projects/cnt_mech_home)  
-Superelastic and superplastic alloys | [Problem Set 2]({{< baseurl >}}/pages/projects/superelastic_2) | [Problem Set 3]({{< baseurl >}}/pages/projects/superlastic_3) | [Problem Set 5]({{< baseurl >}}/pages/projects/superelastic_5)  
-[Mechanical behavior of a virus]({{< baseurl >}}/pages/projects/virus_home)  
-[Effects of radiation on mechanical behavior of crystalline materials]({{< baseurl >}}/pages/projects/radiation_home)
+{{% resource_link d2c4d382-2bf8-b124-ef19-84d129bb758e "Plasticity and fracture of microelectronic thin films/lines" %}}  
+{{% resource_link 6bc9399e-31b7-554b-381b-94e738195a04 "Effects of multidimensional defects on III-V semiconductor mechanics" %}}  
+{{% resource_link 4240da7f-1fee-9884-d011-d970176515dd "Defect nucleation in crystalline metals" %}}  
+{{% resource_link 25015f4f-2da1-f23e-6220-37f2a8145e3f "Role of water in accelerated fracture of fiber optic glass" %}}  
+{{% resource_link 346f07bc-3b08-58de-3e3b-aa79c2ae2dff "Carbon nanotube mechanics" %}}  
+Superelastic and superplastic alloys | {{% resource_link 149fee27-7560-a343-acc4-9df953361eaf "Problem Set 2" %}} | {{% resource_link 930bd449-6d42-b095-aae2-1811720720e4 "Problem Set 3" %}} | {{% resource_link a7a6f0d3-b0ba-b69f-bbe7-33bf6be6aa67 "Problem Set 5" %}}  
+{{% resource_link 2bee5861-4835-4007-19c7-b55fc641dd04 "Mechanical behavior of a virus" %}}  
+{{% resource_link fec2f6e3-d5f7-3aff-9e49-9fe0cd9ac6f0 "Effects of radiation on mechanical behavior of crystalline materials" %}}
