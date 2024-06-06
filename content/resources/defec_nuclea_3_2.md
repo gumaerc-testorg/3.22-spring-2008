@@ -2,6 +2,7 @@
 content_type: resource
 description: Image accompanying a course assignment.
 file: /courses/3-22-mechanical-behavior-of-materials-spring-2008/2434e379d3a5d98962bc9d9d2da286a8_defec_nuclea_3_2.jpg
+file_size: 8801
 file_type: image/jpeg
 image_metadata:
   caption: ''

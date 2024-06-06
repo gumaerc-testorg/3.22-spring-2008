@@ -2,6 +2,7 @@
 content_type: resource
 description: Image accompanying a course assignment.
 file: /courses/3-22-mechanical-behavior-of-materials-spring-2008/aec0af8c6f881a4344f995c5a813adfd_radiation_2_3.jpg
+file_size: 77611
 file_type: image/jpeg
 image_metadata:
   caption: ''

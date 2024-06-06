@@ -2,6 +2,7 @@
 content_type: resource
 description: Image accompanying a course assignment.
 file: /courses/3-22-mechanical-behavior-of-materials-spring-2008/afbfcf98df35621c80f5a8114b5a475e_fiber_optics_5_1.jpg
+file_size: 37818
 file_type: image/jpeg
 image_metadata:
   caption: ''
