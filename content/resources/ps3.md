@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set on the mechanical behavior of materials.
 file: /courses/3-22-mechanical-behavior-of-materials-spring-2008/a1a2af1f7c6faba18993fcbc4c85c58d_ps3.pdf
+file_size: 109864
 file_type: application/pdf
 learning_resource_types:
 - Assignments
