@@ -2,6 +2,7 @@
 content_type: resource
 description: Example solutions to the first quiz.
 file: /courses/3-22-mechanical-behavior-of-materials-spring-2008/4d7bacd5d310159909dcd8e80c109a65_quiz1_sol.pdf
+file_size: 1385065
 file_type: application/pdf
 learning_resource_types:
 - Exams

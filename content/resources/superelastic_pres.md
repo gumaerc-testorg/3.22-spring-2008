@@ -3,6 +3,7 @@ content_type: resource
 description: "Example of student work: final presentation for the group project, courtesy\
   \ of Danielle Issa, Sunyoung Kim, and an anonymous student.\r\n"
 file: /courses/3-22-mechanical-behavior-of-materials-spring-2008/db755c09033d74b9a5b8fa28ef5bdd5f_superelastic_pres.pdf
+file_size: 236635
 file_type: application/pdf
 learning_resource_types:
 - Projects

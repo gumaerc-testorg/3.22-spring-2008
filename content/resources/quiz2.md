@@ -2,6 +2,7 @@
 content_type: resource
 description: Quiz on the mechanical behavior of materials.
 file: /courses/3-22-mechanical-behavior-of-materials-spring-2008/3d2c9bfb5235a1d1080f060fa66885c1_quiz2.pdf
+file_size: 44684
 file_type: application/pdf
 learning_resource_types:
 - Exams

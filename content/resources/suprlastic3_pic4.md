@@ -2,6 +2,7 @@
 content_type: resource
 description: Image accompanying a course assignment.
 file: /courses/3-22-mechanical-behavior-of-materials-spring-2008/8981a5770e9cd5777ab039377ae97cf9_suprlastic3_pic4.jpg
+file_size: 42952
 file_type: image/jpeg
 image_metadata:
   caption: ''

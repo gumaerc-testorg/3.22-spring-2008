@@ -3,6 +3,7 @@ content_type: resource
 description: 'Example of student work: final presentation for the group project, courtesy
   of Tim Rupert, Aparna Singh, Kang ShinYoung, and Hyunjung Yi.'
 file: /courses/3-22-mechanical-behavior-of-materials-spring-2008/2b228828efcd986c0794f568f209661f_defe_nuclea_pres.pdf
+file_size: 78149
 file_type: application/pdf
 learning_resource_types:
 - Projects
