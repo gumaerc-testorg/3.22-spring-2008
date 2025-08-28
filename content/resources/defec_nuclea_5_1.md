@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image accompanying a course assignment.
-file: /courses/3-22-mechanical-behavior-of-materials-spring-2008/b5730f86e2faeee149b91ef1422eacc7_defec_nuclea_5_1.jpg
+file: /ol-ocw-studio-app/courses/3-22-mechanical-behavior-of-materials-spring-2008/b5730f86e2faeee149b91ef1422eacc7_defec_nuclea_5_1.jpg
 file_size: 4158
 file_type: image/jpeg
 image_metadata:
