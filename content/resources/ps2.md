@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on the mechanical behavior of materials.
-file: /courses/3-22-mechanical-behavior-of-materials-spring-2008/c1d0abf5f8fb9b5008c0f95ab4ded93b_ps2.pdf
+file: /ol-ocw-studio-app/courses/3-22-mechanical-behavior-of-materials-spring-2008/c1d0abf5f8fb9b5008c0f95ab4ded93b_ps2.pdf
 file_size: 531013
 file_type: application/pdf
 learning_resource_types:

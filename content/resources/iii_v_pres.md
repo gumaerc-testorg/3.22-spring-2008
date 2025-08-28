@@ -2,7 +2,7 @@
 content_type: resource
 description: "Example of student work: final presentation for the group project, courtesy\
   \ of Nan Yang, Sal Barriga, Sahil Sahni, and Vivek Raghunathan.\r\n"
-file: /courses/3-22-mechanical-behavior-of-materials-spring-2008/0ed7a3ad17ba6b47c7102c219570c1d5_iii_v_pres.pdf
+file: /ol-ocw-studio-app/courses/3-22-mechanical-behavior-of-materials-spring-2008/0ed7a3ad17ba6b47c7102c219570c1d5_iii_v_pres.pdf
 file_size: 572543
 file_type: application/pdf
 learning_resource_types:

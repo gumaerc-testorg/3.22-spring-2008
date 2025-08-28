@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image accompanying a course assignment.
-file: /courses/3-22-mechanical-behavior-of-materials-spring-2008/33fe7896aa6fb294d968eb8b2379ac9b_radiation_3_5.jpg
+file: /ol-ocw-studio-app/courses/3-22-mechanical-behavior-of-materials-spring-2008/33fe7896aa6fb294d968eb8b2379ac9b_radiation_3_5.jpg
 file_size: 4364
 file_type: image/jpeg
 image_metadata:
