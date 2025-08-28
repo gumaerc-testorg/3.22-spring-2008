@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image accompanying a course assignment.
-file: /courses/3-22-mechanical-behavior-of-materials-spring-2008/f051e263505f6f39b4a6a95f9fe47aba_thinfilms_3_1.jpg
+file: /ol-ocw-studio-app/courses/3-22-mechanical-behavior-of-materials-spring-2008/f051e263505f6f39b4a6a95f9fe47aba_thinfilms_3_1.jpg
 file_size: 3740
 file_type: image/jpeg
 image_metadata:

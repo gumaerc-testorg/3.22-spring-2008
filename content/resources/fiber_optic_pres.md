@@ -3,7 +3,7 @@ content_type: resource
 description: "Example of student work: final presentation on the role of water in\
   \ accelerated fracture of fiber optic glass, courtesy of Matthew Smith, Sophie Poizeau,\
   \ Michiel Vanhoutte, and No\xE9mie Chocat."
-file: /courses/3-22-mechanical-behavior-of-materials-spring-2008/a847b0ace72cc9abb30f7e5810ed650d_fiber_optic_pres.pdf
+file: /ol-ocw-studio-app/courses/3-22-mechanical-behavior-of-materials-spring-2008/a847b0ace72cc9abb30f7e5810ed650d_fiber_optic_pres.pdf
 file_size: 108496
 file_type: application/pdf
 learning_resource_types:

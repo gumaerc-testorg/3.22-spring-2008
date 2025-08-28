@@ -2,7 +2,7 @@
 content_type: resource
 description: Supplement to a problem set on calculating the highest Young's elastic
   modulus.
-file: /courses/3-22-mechanical-behavior-of-materials-spring-2008/b4aa40550246fd1a1fa95a66a41a1c36_iii_v_2_attach.pdf
+file: /ol-ocw-studio-app/courses/3-22-mechanical-behavior-of-materials-spring-2008/b4aa40550246fd1a1fa95a66a41a1c36_iii_v_2_attach.pdf
 file_size: 56380
 file_type: application/pdf
 learning_resource_types:

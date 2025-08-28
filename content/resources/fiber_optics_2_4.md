@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image accompanying a course assignment.
-file: /courses/3-22-mechanical-behavior-of-materials-spring-2008/ce4407d0c3e147fade4bd2b57ea09c8e_fiber_optics_2_4.jpg
+file: /ol-ocw-studio-app/courses/3-22-mechanical-behavior-of-materials-spring-2008/ce4407d0c3e147fade4bd2b57ea09c8e_fiber_optics_2_4.jpg
 file_size: 4579
 file_type: image/jpeg
 image_metadata:
