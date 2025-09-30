@@ -20,7 +20,7 @@ Group Members
  
 
 Image removed due to copyright restrictions.  
-Please see: [Kohlenstoffnanoroehre Animation](http://en.wikipedia.org/wiki/File:Kohlenstoffnanoroehre_Animation.gif)
+Please see: {{% resource_link "e30e3853-a70e-4110-8a24-b4539bc0b5d8" "Kohlenstoffnanoroehre Animation" %}}
 
   
  

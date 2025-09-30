@@ -19,7 +19,7 @@ Group Members
 *   Noémie Chocat
 
 Image removed due to copyright restrictions.  
-Please see: [https://web.archive.org/web/20121213052722/http://www.rtcfiber.com/layout/multiflex3/images/fiber-optics.jpg](https://web.archive.org/web/20121213052722/http://www.rtcfiber.com/layout/multiflex3/images/fiber-optics.jpg)
+Please see: {{% resource_link "d9d22978-c7f6-4e2a-9072-ac9dd83d01ac" "https://web.archive.org/web/20121213052722/http://www.rtcfiber.com/layout/multiflex3/images/fiber-optics.jpg" %}}
 
 References
 ----------

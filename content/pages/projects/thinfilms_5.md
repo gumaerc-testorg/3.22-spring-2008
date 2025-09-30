@@ -35,7 +35,7 @@ The stress required to initiate fracture for a given material will be higher in 
 
 \[3\] Tu, Yuhai, and J. Tersoff. "Structure of the Silicon-Oxide Interface." _Thin Solid Films_ 400 (2001): 95-100.
 
-\[4\] [MatWeb](http://www.matweb.com/).
+\[4\] {{% resource_link "62755ae6-f87f-400a-b233-7d77c6c3ed03" "MatWeb" %}}.
 
 \[5\] Celler, G. K., and Sorin Cristoloveanu. "Frontiers of Silicon-on-Insulator." _Journal of Applied Physics_ 93 (May 1, 2003): 4955-4978.
 
