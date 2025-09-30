@@ -81,11 +81,11 @@ Griffith's criterion considers crack propagation in single material. To apply Gr
 
 \[2\] Minor, Andrew M., et al. "A New View of the Onset of Plasticity During the Nanoindentation of Aluminum." _Nature Materials_ 5 (2006): 697-702.
 
-\[3\] [National Center for Electron Microscopy](http://foundry.lbl.gov/facilities/ncem/).
+\[3\] {{% resource_link "ed6930b6-3530-4df0-a7b3-4170f7eca622" "National Center for Electron Microscopy" %}}.
 
 \[4\] Needs, Richard J. "Calculations of the Surface Stress Tensor at Aluminum (111) and (110) Surfaces." _Physical Review Letters_ 58 (1987): 53-56.
 
-\[5\] [MatWeb](http://www.matweb.com/).
+\[5\] {{% resource_link "62755ae6-f87f-400a-b233-7d77c6c3ed03" "MatWeb" %}}.
 
 \[6\] Yuan, Lin, et al. "Molecular Dynamics Simulation of Tensile Deformation of Nano-single Crystal Aluminum." _Journal of Materials Processing Technology_ 184 (2007): 1-5.
 

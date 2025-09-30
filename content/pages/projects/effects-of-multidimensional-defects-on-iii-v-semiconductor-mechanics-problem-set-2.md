@@ -16,35 +16,35 @@ uid: 4004d0a3-e09b-c1eb-db08-0be15d73640b
 
 {{< resource uuid="1e4cdc8e-2c64-516a-a872-8d3b7baaba13" >}}
 
-GaAs Zinc-Blende Structure \[[1](https://ocw-studio.odl.mit.edu/sites/3-22-mechanical-behavior-of-materials-spring-2008/type/page/edit/4004d0a3-e09b-c1eb-db08-0be15d73640b/?q=iii#ref)\]
+GaAs Zinc-Blende Structure \[{{% resource_link "5b7a2987-d9ed-4d93-b738-a4050b905a6f" "1" %}}\]
 
 Image removed due to copyright restrictions.
 
-Please see: [http://www-vrl.umich.edu/project2/miller/111plane.JPG](http://www-vrl.umich.edu/project2/miller/111plane.JPG)
+Please see: {{% resource_link "451394ee-9208-41a9-a57b-af8a6358c614" "http://www-vrl.umich.edu/project2/miller/111plane.JPG" %}}
 
-GaAs closest packed direction and plane \[[2](https://ocw-studio.odl.mit.edu/sites/3-22-mechanical-behavior-of-materials-spring-2008/type/page/edit/4004d0a3-e09b-c1eb-db08-0be15d73640b/?q=iii#ref)\]
+GaAs closest packed direction and plane \[{{% resource_link "5b7a2987-d9ed-4d93-b738-a4050b905a6f" "2" %}}\]
 
 {{< resource uuid="512d991d-2d77-2179-3978-898a4009c723" >}}
 
-Silicon Diamond Structure \[[1](https://ocw-studio.odl.mit.edu/sites/3-22-mechanical-behavior-of-materials-spring-2008/type/page/edit/4004d0a3-e09b-c1eb-db08-0be15d73640b/?q=iii#ref)\]
+Silicon Diamond Structure \[{{% resource_link "5b7a2987-d9ed-4d93-b738-a4050b905a6f" "1" %}}\]
 
-The GaAs structure is a zincblende structure whose basis consists of two different atoms, gallium and arsenic. Silicon has a similar structure except that it has a one atom basis, which is Silicon. This implies the GaAs structure does not have inversion symmetry whereas the silicon structure does. In addition, in GaAs, "the electron clouds \[tend\] to shift towards the Arsenide atoms, and results in a dipole moment along the \[111\] axis" \[[3](https://ocw-studio.odl.mit.edu/sites/3-22-mechanical-behavior-of-materials-spring-2008/type/page/edit/4004d0a3-e09b-c1eb-db08-0be15d73640b/?q=iii#ref)\]; the material exhibits piezoelectric characteristic similar to quartz. The zinc blende structure also offers alternating (111) Gallium and Arsenic planes resulting in very different properties depending on the surface-terminating plane. The asymmetry also results in such properties as hardness, anisotropy, and different dislocation velocities. \[[3](https://ocw-studio.odl.mit.edu/sites/3-22-mechanical-behavior-of-materials-spring-2008/type/page/edit/4004d0a3-e09b-c1eb-db08-0be15d73640b/?q=iii#ref)\]
+The GaAs structure is a zincblende structure whose basis consists of two different atoms, gallium and arsenic. Silicon has a similar structure except that it has a one atom basis, which is Silicon. This implies the GaAs structure does not have inversion symmetry whereas the silicon structure does. In addition, in GaAs, "the electron clouds \[tend\] to shift towards the Arsenide atoms, and results in a dipole moment along the \[111\] axis" \[{{% resource_link "5b7a2987-d9ed-4d93-b738-a4050b905a6f" "3" %}}\]; the material exhibits piezoelectric characteristic similar to quartz. The zinc blende structure also offers alternating (111) Gallium and Arsenic planes resulting in very different properties depending on the surface-terminating plane. The asymmetry also results in such properties as hardness, anisotropy, and different dislocation velocities. \[{{% resource_link "5b7a2987-d9ed-4d93-b738-a4050b905a6f" "3" %}}\]
 
-*(b) From the data provided in Hjort's Table 1 \[*[*3*](https://ocw-studio.odl.mit.edu/sites/3-22-mechanical-behavior-of-materials-spring-2008/type/page/edit/4004d0a3-e09b-c1eb-db08-0be15d73640b/?q=iii#ref)*\], determine the Poisson's ratio of GaAs, as compared to Si and AlAs. Discuss comparison of these predictions with experimentally reported values of ν, from open literature and databases such as matweb.com.*
-
- 
-
-Image removed due to copyright restrictions. Please see Table 1 in \[[3](https://ocw-studio.odl.mit.edu/sites/3-22-mechanical-behavior-of-materials-spring-2008/type/page/edit/4004d0a3-e09b-c1eb-db08-0be15d73640b/?q=iii#ref)\].
+*(b) From the data provided in Hjort's Table 1 \[*{{% resource_link "5b7a2987-d9ed-4d93-b738-a4050b905a6f" "*3*" %}}*\], determine the Poisson's ratio of GaAs, as compared to Si and AlAs. Discuss comparison of these predictions with experimentally reported values of ν, from open literature and databases such as matweb.com.*
 
  
 
-The Poisson's ratio (ν) calculated (by taking the ratio -S{{< sub "12" >}}/S{{< sub "11" >}} , values of which are given in table 1) for GaAs, Si, and AlAs are respectively 0.3162, 0.2727, and 0.325. Thus we find that the Poisson's ratio for AlAs > GaAs > Si. From literature, the Poisson's ratio for bulk GaAs is 0.31 \[[4](https://ocw-studio.odl.mit.edu/sites/3-22-mechanical-behavior-of-materials-spring-2008/type/page/edit/4004d0a3-e09b-c1eb-db08-0be15d73640b/?q=iii#ref)\], for Si it ranges between 0.22 for bulk isotropic, and 0.27 for \<111> crystalline Si \[[4](https://ocw-studio.odl.mit.edu/sites/3-22-mechanical-behavior-of-materials-spring-2008/type/page/edit/4004d0a3-e09b-c1eb-db08-0be15d73640b/?q=iii#ref)\], and 0.328 for AlAs \[[5](https://ocw-studio.odl.mit.edu/sites/3-22-mechanical-behavior-of-materials-spring-2008/type/page/edit/4004d0a3-e09b-c1eb-db08-0be15d73640b/?q=iii#ref)\]. The calculated values are in close agreement with the values got from literature.
-
-*(c) Hjort's Fig. 2 \[*[*3*](https://ocw-studio.odl.mit.edu/sites/3-22-mechanical-behavior-of-materials-spring-2008/type/page/edit/4004d0a3-e09b-c1eb-db08-0be15d73640b/?q=iii#ref)*\] seems to indicate a different number of independent elastic constants than your crystal structure in (a) would suggest; explain. (It's a simple explanation.)*
+Image removed due to copyright restrictions. Please see Table 1 in \[{{% resource_link "5b7a2987-d9ed-4d93-b738-a4050b905a6f" "3" %}}\].
 
  
 
-Image removed due to copyright restrictions. Please see Fig. 2 in \[[3](https://ocw-studio.odl.mit.edu/sites/3-22-mechanical-behavior-of-materials-spring-2008/type/page/edit/4004d0a3-e09b-c1eb-db08-0be15d73640b/?q=iii#ref)\].
+The Poisson's ratio (ν) calculated (by taking the ratio -S{{< sub "12" >}}/S{{< sub "11" >}} , values of which are given in table 1) for GaAs, Si, and AlAs are respectively 0.3162, 0.2727, and 0.325. Thus we find that the Poisson's ratio for AlAs > GaAs > Si. From literature, the Poisson's ratio for bulk GaAs is 0.31 \[{{% resource_link "5b7a2987-d9ed-4d93-b738-a4050b905a6f" "4" %}}\], for Si it ranges between 0.22 for bulk isotropic, and 0.27 for \<111> crystalline Si \[{{% resource_link "5b7a2987-d9ed-4d93-b738-a4050b905a6f" "4" %}}\], and 0.328 for AlAs \[{{% resource_link "5b7a2987-d9ed-4d93-b738-a4050b905a6f" "5" %}}\]. The calculated values are in close agreement with the values got from literature.
+
+*(c) Hjort's Fig. 2 \[*{{% resource_link "5b7a2987-d9ed-4d93-b738-a4050b905a6f" "*3*" %}}*\] seems to indicate a different number of independent elastic constants than your crystal structure in (a) would suggest; explain. (It's a simple explanation.)*
+
+ 
+
+Image removed due to copyright restrictions. Please see Fig. 2 in \[{{% resource_link "5b7a2987-d9ed-4d93-b738-a4050b905a6f" "3" %}}\].
 
  
 
@@ -54,7 +54,7 @@ As expected, the matrix in Fig. 2 shows three independent elastic constants, C{{
 
  
 
-Image removed due to copyright restrictions. Please see Fig. 3a in \[[3](https://ocw-studio.odl.mit.edu/sites/3-22-mechanical-behavior-of-materials-spring-2008/type/page/edit/4004d0a3-e09b-c1eb-db08-0be15d73640b/?q=iii#ref)\].
+Image removed due to copyright restrictions. Please see Fig. 3a in \[{{% resource_link "5b7a2987-d9ed-4d93-b738-a4050b905a6f" "3" %}}\].
 
  
 
@@ -66,17 +66,17 @@ However, it is important to understand the exact orientation of this the (111) p
 
 Effect of the introduction of stresses on a bi-material strip.
 
-For a GaAs film on a substrate (of a different material, and thus different elastic modulus, usually much greater), the lattice-mismatch, or a change of environment temperature, etc., generates stresses oriented parallel to the plane of the interface, leading to bending of the thin film, as described above. Also, the elastic modulus of the substrates used, is generally greater than that of the thin film (for example, sapphire, a commonly adopted substrate, has a Young's Modulus of 400 GPa \[[6](https://ocw-studio.odl.mit.edu/sites/3-22-mechanical-behavior-of-materials-spring-2008/type/page/edit/4004d0a3-e09b-c1eb-db08-0be15d73640b/?q=iii#ref)\]). Thus, in order to resist bending, it is desired to have the generated stresses experience maximum stiffness. Hence, the (111) planes (greatest modulus) should be oriented such that the normal to these **planes** are parallel to the generated stresses (in the plane of the interface).
+For a GaAs film on a substrate (of a different material, and thus different elastic modulus, usually much greater), the lattice-mismatch, or a change of environment temperature, etc., generates stresses oriented parallel to the plane of the interface, leading to bending of the thin film, as described above. Also, the elastic modulus of the substrates used, is generally greater than that of the thin film (for example, sapphire, a commonly adopted substrate, has a Young's Modulus of 400 GPa \[{{% resource_link "5b7a2987-d9ed-4d93-b738-a4050b905a6f" "6" %}}\]). Thus, in order to resist bending, it is desired to have the generated stresses experience maximum stiffness. Hence, the (111) planes (greatest modulus) should be oriented such that the normal to these **planes** are parallel to the generated stresses (in the plane of the interface).
 
 ## {{< anchor "ref" >}}{{< /anchor >}}References
 
-\[1\] [Wikimedia Commons](http://commons.wikimedia.org/wiki/Main_Page).
+\[1\] {{% resource_link "1e073164-78c2-40c7-8820-5c907a0388d3" "Wikimedia Commons" %}}.
 
-\[2\] [Miller Indices in VRML](https://web.archive.org/web/20141231074358/http://www.umich.edu/~vrl/project2/miller/index.html).
+\[2\] {{% resource_link "b3ddd287-50e2-4d34-a67c-62260d234877" "Miller Indices in VRML" %}}.
 
 \[3\] Hjort, Klas, Jan Soderkvist, and Jan-Ake Schweitz. "Gallium Arsenide as a Mechanical Material." *Journal of Micromechanics and Microengineering* 4 (1994): 1-13.
 
-\[4\] [MEMSnet](http://www.memsnet.org/jobs/).
+\[4\] {{% resource_link "12347eb5-ee16-4a36-96f8-535d007c8e68" "MEMSnet" %}}.
 
 \[5\] Leavitt, R. P., and F. J. Towner. "Determination of the Lattice Parameter and Poisson Ratio for AlAs via High-resolution x-ray-Diffraction Studies of Epitaxial Films." *Physical Review B* 48 (1993): 9154-9157.
 

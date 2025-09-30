@@ -17,7 +17,7 @@ In shape memory technology, namely NiTi, creep properties are generally not cons
 
 Some creep studies exist on the creep properties of NiTi, as reviewed and summarized below \[[6](#References)\] :
 
-Table 1. Summary of prior and present studies. Courtesy Elsevier, Inc., [Science Direct](http://www.sciencedirect.com/). Used with permission. \[[6](#References)\]
+Table 1. Summary of prior and present studies. Courtesy Elsevier, Inc., {{% resource_link "e536045d-0729-4b12-bb51-bd202b63ddf1" "Science Direct" %}}. Used with permission. \[[6](#References)\]
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -152,7 +152,7 @@ Bars, annealed at 950-1100 °C
 
 {{< tableclose >}}
 
-Table 2. Summary of creep conditions and creep parameters measured in prior and present studies. Courtesy Elsevier, Inc., [Science Direct](http://www.sciencedirect.com/). Used with permission. \[[6](#References)\]
+Table 2. Summary of creep conditions and creep parameters measured in prior and present studies. Courtesy Elsevier, Inc., {{% resource_link "e536045d-0729-4b12-bb51-bd202b63ddf1" "Science Direct" %}}. Used with permission. \[[6](#References)\]
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -341,7 +341,7 @@ Nasser and Choi constructed a schematic deformation mechanism map of Ni-Ti-Cr al
 
 {{< resource "356bb2b0-5f68-b8b4-9fc2-c90321f801fb" >}}
 
-Courtesy Elsevier, Inc., [Science Direct](http://www.sciencedirect.com/). Used with permission. \[[7](#References)\]
+Courtesy Elsevier, Inc., {{% resource_link "e536045d-0729-4b12-bb51-bd202b63ddf1" "Science Direct" %}}. Used with permission. \[[7](#References)\]
 
 _(c) Compare the fracture strengths of superelastic alloys of your choice to those of the alloy components. For example, compare the fracture strength (in terms of fracture stress and plane strain fracture toughness) of Ni and Ti for the NiTi alloy. Discuss implications._
 
@@ -540,9 +540,9 @@ However, the fracture mechanism of a superelastic alloy is not as simple to intu
 
 \[7\] Nemat-Nasser, S., and Choi, Jeom Yong. "Strain Rate Dependence of Deformation Mechanisms in a Ni-Ti-Cr Shape-memory Alloy." _Acta Materialia_ 53 (January 2005): 449-454.
 
-\[8\] [MatWeb](http://www.matweb.com/), material property database.
+\[8\] {{% resource_link "62755ae6-f87f-400a-b233-7d77c6c3ed03" "MatWeb" %}}, material property database.
 
-\[9\] [Wikipedia](http://www.wikipedia.org/).
+\[9\] {{% resource_link "f99124d2-4ad8-44b1-aec4-1f83a7012c3b" "Wikipedia" %}}.
 
 \[10\] He, J. Y., et al. "The Role of Hydride, Martensite, and Atomic Hydrogen in Hydrogen-induced Delayed Fracture of TiNi Alloy." _Materials Science and Engineering A_ 364 (January 15, 2004): 333-338.
 
